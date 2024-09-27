@@ -48,10 +48,6 @@ public class PlayerController : MonoBehaviour
         move.y = 0f;
         controller.Move(move * currentSpeed * Time.deltaTime);
 
-        /*if (move != Vector3.zero)
-        {
-            gameObject.transform.forward = move;
-        }*/
         
         if (_inputManager.PlayerJumped() && groundedPlayer)
         {

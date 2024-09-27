@@ -45,65 +45,64 @@
     <Analyzer Include="D:\Programs\2022.3.5f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
      <Compile Include="Assets\Scripts\Player Control\InputSys.cs" />
      <Compile Include="Assets\Scripts\TimerUI.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
      <Compile Include="Assets\Scripts\DangerBehavior.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
      <Compile Include="Assets\Scripts\Player Control\InputManager.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
+     <Compile Include="Assets\Scripts\NPC\PatrolBehavior.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
      <Compile Include="Assets\Resourсes\QuickOutline\Scripts\Outline.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
      <Compile Include="Assets\Scripts\PickUpKey.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
+     <Compile Include="Assets\Scripts\NPC\IdleBehavior.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
      <Compile Include="Assets\Scripts\Player Control\FirstPersonController.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
      <Compile Include="Assets\Scripts\Player Control\PlayerController.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
+     <Compile Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
      <Compile Include="Assets\Scripts\GateReview.cs" />
      <Compile Include="Assets\Scripts\Player Control\CinemachinePOVExtension.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Resourсes\Insect Characters\Japanese Hornet\3D\Animations" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Shaders\TMPro.cginc" />
      <Folder Include="Assets\Resourсes\QuickOutline\Resources" />
-     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Sprites" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Sprites" />
      <Folder Include="Assets\Resourсes\QuickOutline\Resources\Materials" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
-     <Folder Include="Assets\TextMesh Pro\Sprites" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Ice" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Rocks\Dry" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Sprites" />
      <Folder Include="Assets\Resourсes\Insect Characters\Mantis\Prefabs" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Prefabs\Cave Rocks, Pieces\Set 2" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Rocks\Ice" />
-     <Folder Include="Assets\TextMesh Pro\Resources\Sprite Assets" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Resources\Sprite Assets" />
      <Folder Include="Assets\Resourсes\Insect Characters\Ladybug\3D\Animations" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Prefabs\Modules" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Prefabs\Cave Rocks, Pieces\Set 1\Walls, Clusters" />
@@ -111,152 +110,127 @@
      <Folder Include="Assets\Resourсes\Insect Characters\Caterpillar\3D\Animations" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Prefabs\Cave Rocks, Pieces\Set 1\Stone Stairs, Structure" />
      <Folder Include="Assets\Resourсes\Insect Characters\Japanese Hornet\Textures" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Terrains\Gas" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
      <Folder Include="Assets\Resourсes\Alien_planet\Effects" />
-     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald-Bold - OFL.txt" />
+     <Folder Include="Assets\Resourсes\Layers" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald-Bold - OFL.txt" />
      <Folder Include="Assets\Resourсes\Insect Characters\Moth\Textures" />
      <Folder Include="Assets\Resourсes\Insect Characters\Moth\3D" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Prefabs" />
-     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
-     <Folder Include="Assets\TextMesh Pro\Resources\Fonts &amp; Materials" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Resources\Fonts &amp; Materials" />
      <Folder Include="Assets\Resourсes\Insect Characters\Ladybug\3D" />
      <Folder Include="Assets\Resourсes\Insect Characters\Rhinoceros Beetle\Prefabs" />
      <Folder Include="Assets\Resourсes\QuickOutline\Samples" />
      <Folder Include="Assets\Resourсes\Insect Characters\Mantis\3D\Animations" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Rocks" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\FBX" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Prefabs\Cave Rocks, Pieces\Set 1" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
-     <Folder Include="Assets\TextMesh Pro\Resources" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Resources" />
      <None Include="Assets\Resourсes\QuickOutline\Resources\Shaders\OutlineMask.shader" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Foliage\Ice" />
      <Folder Include="Assets\Resourсes\Insect Characters\Japanese Hornet\Prefabs" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Prefabs\Cave Rocks, Pieces\Set 2\Walls, Clusters" />
      <Folder Include="Assets\Resourсes" />
      <Folder Include="Assets\Resourсes\Insect Characters\Mantis\3D\Materials" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Foliage\Dry" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Demo Scenes" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
      <Folder Include="Assets\Resourсes\Insect Characters\Moth" />
      <Folder Include="Assets\Resourсes\Insect Characters\Japanese Hornet\3D" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Demo Scenes\The Cave" />
-     <Folder Include="Assets\TextMesh Pro" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Prefabs\Cave Rocks, Pieces\Set 2\Single Rocks" />
      <Folder Include="Assets\Resourсes\Insect Characters\Caterpillar\3D" />
      <Folder Include="Assets\Resourсes\Insect Characters\Japanese Hornet" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Dry\Rocks" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\effects" />
      <Folder Include="Assets\UI" />
-     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Spaceships" />
-     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Resources" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Ice\Foliage" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Fonts" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Resources" />
      <Folder Include="Assets\Resourсes\Insect Characters\Caterpillar\3D\Materials" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Alien_structure" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Lush\foliage" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Lush\Rocks" />
      <Folder Include="Assets\Resourсes\Insect Characters\Scenes" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Rocks\Gas" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Foliage" />
+     <Folder Include="Assets\Scenes\SampleScene" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Prefabs\Cave Rocks, Pieces" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Prefabs\Cave Rocks, Pieces\Set 1\Single Rocks" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs" />
-     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
-     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Materials" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Materials" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Shaders\TMP_SDF.shader" />
      <Folder Include="Assets\Resourсes\QuickOutline" />
      <Folder Include="Assets\Resourсes\Alien_planet" />
      <Folder Include="Assets\Resourсes\Insect Characters\Rhinoceros Beetle" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Demo Scenes\The Cave\Materials" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
      <Folder Include="Assets\Resourсes\Insect Characters\Mantis\3D" />
-     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
      <Folder Include="Assets\Resourсes\Insect Characters\Rhinoceros Beetle\3D\Animations" />
      <Folder Include="Assets\Resourсes\QuickOutline\Samples\Scenes" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
-     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scripts" />
      <None Include="Assets\Resourсes\QuickOutline\Readme.txt" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Prefabs\Crystals" />
      <Folder Include="Assets\Resourсes\Insect Characters\Mantis" />
      <Folder Include="Assets\Resourсes\Insect Characters\Ladybug\3D\Materials" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Lush" />
      <Folder Include="Assets\Resourсes\Insect Characters\Moth\3D\Animations" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
-     <Folder Include="Assets\TextMesh Pro\Shaders" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Shaders" />
      <Folder Include="Assets\Resourсes\Insect Characters\Moth\Prefabs" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Dry\foliage" />
      <Folder Include="Assets\Resourсes\Insect Characters\Rhinoceros Beetle\3D\Materials" />
-     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Resources\Sprite Assets" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Resources\Sprite Assets" />
      <Folder Include="Assets\Resourсes\Insect Characters\Ladybug\Prefabs" />
-     <Folder Include="Assets\TextMesh Pro\Resources\Style Sheets" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Resources\Style Sheets" />
      <Folder Include="Assets\Resourсes\QuickOutline\Resources\Shaders" />
-     <Folder Include="Assets\TextMesh Pro\Fonts" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Fonts" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Prefabs\Cave Rocks, Pieces\Set 1\Flattened Floor Rocks" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Foliage\Lush" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Prefabs\Cave Rocks, Pieces\Set 1\Massive Cave Walls" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Gas\Foliage" />
-     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
      <Folder Include="Assets\Resourсes\Insect Characters\Rhinoceros Beetle\Textures" />
      <Folder Include="Assets\Scenes" />
      <Folder Include="Assets\Resourсes\QuickOutline\Samples\Materials" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Prefabs\Cave Rocks, Pieces\Set 2\Stalagmites, Stalactites" />
      <Folder Include="Assets\Scripts\Player Control" />
-     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Prefabs" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Prefabs" />
      <Folder Include="Assets\Resourсes\Insect Characters\Materials" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Terrains" />
      <Folder Include="Assets\Resourсes\Alien_planet\Effects\Materials" />
      <Folder Include="Assets\Resourсes\Insect Characters\Caterpillar\Textures" />
+     <Folder Include="Assets\UI\Materials" />
      <Folder Include="Assets\Resourсes\Alien_planet\Textures\Materials" />
-     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Scenes" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Spaceship" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Scenes" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Textures" />
      <Folder Include="Assets\Scripts" />
      <Folder Include="Assets\Resourсes\Insect Characters\Ladybug" />
      <Folder Include="Assets\Resourсes\Insect Characters\Japanese Hornet\3D\Materials" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Terrains\Lush" />
      <Folder Include="Assets\Resourсes\Insect Characters\Mantis\Textures" />
      <None Include="Assets\Resourсes\Aquarius_Stylized_Caves\FBX\Materials\Rock_Cover_Standard.shader" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Gas\Rocks" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Terrains\Ice" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Foliage\Gas" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Ice\Rocks" />
+     <Folder Include="Assets\Scripts\NPC" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
      <None Include="Assets\Resourсes\Alien_planet\READ_ME.txt" />
      <Folder Include="Assets\Resourсes\QuickOutline\Scripts" />
      <Folder Include="Assets\Resourсes\Insect Characters" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Gas" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Prefabs\Wood, Scaffolding" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
      <Folder Include="Assets\Resourсes\Insect Characters\Caterpillar\Prefabs" />
      <Folder Include="Assets\Resourсes\Insect Characters\Caterpillar" />
      <None Include="Assets\Resourсes\QuickOutline\Resources\Shaders\OutlineFill.shader" />
      <Folder Include="Assets\Resourсes\Alien_planet\Scenes" />
-     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
-     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Textures" />
-     <Folder Include="Assets\TextMesh Pro\Documentation" />
-     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Textures" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Documentation" />
+     <Folder Include="Assets\Resourсes\Materials" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras" />
      <Folder Include="Assets\Resourсes\Insect Characters\Ladybug\Textures" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
      <Folder Include="Assets\Resourсes\Alien_planet\Textures" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Prefabs\Cave Rocks, Pieces\Set 1\Stalagmites, Stalactites" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Terrain" />
-     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Resources\Fonts &amp; Materials" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Resources\Fonts &amp; Materials" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\Demo Scenes\Full Display" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Terrains\Dry" />
-     <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Resources\Color Gradient Presets" />
-     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne.json" />
+     <Folder Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Resources\Color Gradient Presets" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Sprites\EmojiOne.json" />
      <Folder Include="Assets\Resourсes\Insect Characters\Rhinoceros Beetle\3D" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Rocks\Lush" />
      <Folder Include="Assets\Resourсes\Aquarius_Stylized_Caves\FBX\Materials" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
-     <Folder Include="Assets\Resourсes\Alien_planet\Prefabs\Dry" />
-     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+     <None Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
      <Folder Include="Assets\Resourсes\Alien_planet\Textures\Skies" />
      <Reference Include="UnityEngine">
      <HintPath>D:\Programs\2022.3.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
@@ -900,6 +874,9 @@
      <Reference Include="com.unity.cinemachine.editor">
      <HintPath>D:\Gits\TechTask\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.AI.Navigation">
+     <HintPath>D:\Gits\TechTask\Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.PlasticSCM.Editor">
      <HintPath>D:\Gits\TechTask\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
      </Reference>
@@ -957,6 +934,9 @@
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
      <HintPath>D:\Gits\TechTask\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.AI.Navigation.Updater">
+     <HintPath>D:\Gits\TechTask\Library\ScriptAssemblies\Unity.AI.Navigation.Updater.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.VisualScripting.State.Editor">
      <HintPath>D:\Gits\TechTask\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
      </Reference>
@@ -966,6 +946,9 @@
      <Reference Include="Unity.TextMeshPro.Editor">
      <HintPath>D:\Gits\TechTask\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.AI.Navigation.Editor">
+     <HintPath>D:\Gits\TechTask\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.VisualScripting.State">
      <HintPath>D:\Gits\TechTask\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
      </Reference>
@@ -974,6 +957,9 @@
      </Reference>
      <Reference Include="Cinemachine">
      <HintPath>D:\Gits\TechTask\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
+     <HintPath>D:\Gits\TechTask\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>

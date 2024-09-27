@@ -1,9 +1,7 @@
-using System.Collections;
-using System.Collections.Generic;
 using Cinemachine;
 using UnityEngine;
 
-public class CinemachinePOVExtension : CinemachineExtension
+public class CinemachinePOVExtension : CinemachineExtension // Extension or Cinemachine
 {
    [SerializeField] private float horizontalSpeed = 10f;
    [SerializeField] private float verticalSpeed = 10f;

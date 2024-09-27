@@ -9,6 +9,8 @@ public class DangerBehavior : MonoBehaviour
         {
             _gameOverMenu.SetActive(true);
             Time.timeScale = 0;
+            Cursor.lockState = CursorLockMode.None;  
+            Cursor.visible = true;
         }
     }
 }

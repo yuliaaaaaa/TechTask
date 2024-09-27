@@ -1,9 +1,17 @@
+using System;
 using UnityEngine;
+using System.Collections;
 
 public class GateReview : MonoBehaviour
 { 
     public static int CollectedKeys = 0;
-    private int keysRequired = 3; // Кількість ключів, необхідних для відкриття воріт
+    private int keysRequired = 3;
+    [SerializeField] private GameObject _winMenu;
+
+    private void Start()
+    {
+        CollectedKeys = 0;
+    }
 
     private void OnTriggerEnter(Collider other)
     {
@@ -15,15 +23,19 @@ public class GateReview : MonoBehaviour
             }
             else
             {
-                Debug.Log("Недостатньо ключів для відкриття воріт.");
+                Debug.Log("Not enough krystals!");
             }
         }
     }
 
     private void OpenGate()
     {
-        Debug.Log("Ворота відкриті!");
-        // Додати логіку для анімації або видалення воріт
-        Destroy(gameObject); // Приклад видалення воріт
+        _winMenu.SetActive(true);
+        Time.timeScale = 0;
+        Cursor.lockState = CursorLockMode.None;  
+        Cursor.visible = true;
+        Destroy(gameObject);
     }
+    
+
 }
