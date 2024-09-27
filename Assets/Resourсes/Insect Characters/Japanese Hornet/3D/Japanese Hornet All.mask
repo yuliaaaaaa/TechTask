@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Japanese Hornet All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Japanese Hornet
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet L Thigh
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet L Thigh/Japanese
+      Hornet L Calf
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet L Thigh/Japanese
+      Hornet L Calf/Japanese Hornet L Foot
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet L Thigh/Japanese
+      Hornet L Calf/Japanese Hornet L Foot/Japanese Hornet L Toe0
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet L Thigh/Japanese
+      Hornet L Calf/Japanese Hornet L Foot/Japanese Hornet L Toe0/Japanese Hornet
+      L Toe1
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet R Thigh
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet R Thigh/Japanese
+      Hornet R Calf
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet R Thigh/Japanese
+      Hornet R Calf/Japanese Hornet R Foot
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet R Thigh/Japanese
+      Hornet R Calf/Japanese Hornet R Foot/Japanese Hornet R Toe0
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet R Thigh/Japanese
+      Hornet R Calf/Japanese Hornet R Foot/Japanese Hornet R Toe0/Japanese Hornet
+      R Toe1
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet L Small Arm
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet L Small Arm/Japanese Hornet L Small Arm02
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet L Small Arm/Japanese Hornet L Small Arm02/Japanese Hornet L Small Arm03
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet R Small Arm
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet R Small Arm/Japanese Hornet R Small Arm02
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet R Small Arm/Japanese Hornet R Small Arm02/Japanese Hornet R Small Arm03
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet L Big Wing
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet L Big Wing/Japanese Hornet
+      L Big Wing02
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet L Clavicle
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet L Clavicle/Japanese Hornet
+      L UpperArm
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet L Clavicle/Japanese Hornet
+      L UpperArm/Japanese Hornet L Forearm
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet L Clavicle/Japanese Hornet
+      L UpperArm/Japanese Hornet L Forearm/Japanese Hornet L Hand
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet L Clavicle/Japanese Hornet
+      L UpperArm/Japanese Hornet L Forearm/Japanese Hornet L Hand/Japanese Hornet
+      L Finger0
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet L Small Wing
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet L Small Wing/Japanese Hornet
+      L Small Wing02
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet Neck
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet Neck/Japanese Hornet Head
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet Neck/Japanese Hornet Head/Japanese
+      Hornet L Antenna
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet Neck/Japanese Hornet Head/Japanese
+      Hornet L Antenna/Japanese Hornet L Antenna02
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet Neck/Japanese Hornet Head/Japanese
+      Hornet L Antenna/Japanese Hornet L Antenna02/Japanese Hornet L Antenna03
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet Neck/Japanese Hornet Head/Japanese
+      Hornet L Lower Eyelid
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet Neck/Japanese Hornet Head/Japanese
+      Hornet L Upper Eyelid
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet Neck/Japanese Hornet Head/Japanese
+      Hornet R Antenna
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet Neck/Japanese Hornet Head/Japanese
+      Hornet R Antenna/Japanese Hornet R Antenna02
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet Neck/Japanese Hornet Head/Japanese
+      Hornet R Antenna/Japanese Hornet R Antenna02/Japanese Hornet R Antenna03
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet Neck/Japanese Hornet Head/Japanese
+      Hornet R Lower Eyelid
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet Neck/Japanese Hornet Head/Japanese
+      Hornet R Upper Eyelid
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet Neck/Japanese Hornet Head/L
+      Eye
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet Neck/Japanese Hornet Head/L
+      Eye Shine
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet Neck/Japanese Hornet Head/R
+      Eye
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet Neck/Japanese Hornet Head/R
+      Eye Shine
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet R Big Wing
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet R Big Wing/Japanese Hornet
+      R Big Wing02
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet R Clavicle
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet R Clavicle/Japanese Hornet
+      R UpperArm
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet R Clavicle/Japanese Hornet
+      R UpperArm/Japanese Hornet R Forearm
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet R Clavicle/Japanese Hornet
+      R UpperArm/Japanese Hornet R Forearm/Japanese Hornet R Hand
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet R Clavicle/Japanese Hornet
+      R UpperArm/Japanese Hornet R Forearm/Japanese Hornet R Hand/Japanese Hornet
+      R Finger0
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet R Small Wing
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Spine/Japanese
+      Hornet Spine1/Japanese Hornet Spine2/Japanese Hornet R Small Wing/Japanese Hornet
+      R Small Wing02
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Tail
+    m_Weight: 1
+  - m_Path: Japanese Hornet/Japanese Hornet Pelvis/Japanese Hornet Tail/Japanese Hornet
+      Tail1
+    m_Weight: 1
+  - m_Path: Japanese Hornet Mesh
+    m_Weight: 1

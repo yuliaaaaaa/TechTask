@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: 80381663e082b8447a43a6329c59ff1b
+timeCreated: 1540297026
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: L Eye
+    100002: L Eye Shine
+    100004: Moth
+    100006: Moth Abdomen
+    100008: Moth Head
+    100010: Moth L Antenna
+    100012: Moth L Antenna02
+    100014: Moth L Antenna03
+    100016: Moth L Calf
+    100018: Moth L Clavicle
+    100020: Moth L Eyebrow
+    100022: Moth L Foot
+    100024: Moth L Forearm
+    100026: Moth L Hand
+    100028: Moth L Lower Eyelid
+    100030: Moth L Small Arm
+    100032: Moth L Small Arm02
+    100034: Moth L Small Arm03
+    100036: Moth L Thigh
+    100038: Moth L Toe0
+    100040: Moth L Toe1
+    100042: Moth L Upper Eyelid
+    100044: Moth L UpperArm
+    100046: Moth L Wing Bottom
+    100048: Moth L Wing Bottom02
+    100050: Moth L Wing Bottom03
+    100052: Moth L Wing Top
+    100054: Moth L Wing Top02
+    100056: Moth Neck
+    100058: Moth Pelvis
+    100060: Moth R Antenna
+    100062: Moth R Antenna02
+    100064: Moth R Antenna03
+    100066: Moth R Calf
+    100068: Moth R Clavicle
+    100070: Moth R Eyebrow
+    100072: Moth R Foot
+    100074: Moth R Forearm
+    100076: Moth R Hand
+    100078: Moth R Lower Eyelid
+    100080: Moth R Small Arm
+    100082: Moth R Small Arm02
+    100084: Moth R Small Arm03
+    100086: Moth R Thigh
+    100088: Moth R Toe0
+    100090: Moth R Toe1
+    100092: Moth R Upper Eyelid
+    100094: Moth R UpperArm
+    100096: Moth R Wing Bottom
+    100098: Moth R Wing Bottom02
+    100100: Moth R Wing Bottom03
+    100102: Moth R Wing Top
+    100104: Moth R Wing Top02
+    100106: Moth Spine
+    100108: Moth Spine1
+    100110: Moth Spine2
+    100112: //RootNode
+    100114: R Eye
+    100116: R Eye Shine
+    400000: L Eye
+    400002: L Eye Shine
+    400004: Moth
+    400006: Moth Abdomen
+    400008: Moth Head
+    400010: Moth L Antenna
+    400012: Moth L Antenna02
+    400014: Moth L Antenna03
+    400016: Moth L Calf
+    400018: Moth L Clavicle
+    400020: Moth L Eyebrow
+    400022: Moth L Foot
+    400024: Moth L Forearm
+    400026: Moth L Hand
+    400028: Moth L Lower Eyelid
+    400030: Moth L Small Arm
+    400032: Moth L Small Arm02
+    400034: Moth L Small Arm03
+    400036: Moth L Thigh
+    400038: Moth L Toe0
+    400040: Moth L Toe1
+    400042: Moth L Upper Eyelid
+    400044: Moth L UpperArm
+    400046: Moth L Wing Bottom
+    400048: Moth L Wing Bottom02
+    400050: Moth L Wing Bottom03
+    400052: Moth L Wing Top
+    400054: Moth L Wing Top02
+    400056: Moth Neck
+    400058: Moth Pelvis
+    400060: Moth R Antenna
+    400062: Moth R Antenna02
+    400064: Moth R Antenna03
+    400066: Moth R Calf
+    400068: Moth R Clavicle
+    400070: Moth R Eyebrow
+    400072: Moth R Foot
+    400074: Moth R Forearm
+    400076: Moth R Hand
+    400078: Moth R Lower Eyelid
+    400080: Moth R Small Arm
+    400082: Moth R Small Arm02
+    400084: Moth R Small Arm03
+    400086: Moth R Thigh
+    400088: Moth R Toe0
+    400090: Moth R Toe1
+    400092: Moth R Upper Eyelid
+    400094: Moth R UpperArm
+    400096: Moth R Wing Bottom
+    400098: Moth R Wing Bottom02
+    400100: Moth R Wing Bottom03
+    400102: Moth R Wing Top
+    400104: Moth R Wing Top02
+    400106: Moth Spine
+    400108: Moth Spine1
+    400110: Moth Spine2
+    400112: //RootNode
+    400114: R Eye
+    400116: R Eye Shine
+    2100000: Eye
+    2100002: Eye Shine
+    2300000: L Eye
+    2300002: L Eye Shine
+    2300004: R Eye
+    2300006: R Eye Shine
+    3300000: L Eye
+    3300002: L Eye Shine
+    3300004: R Eye
+    3300006: R Eye Shine
+    4300000: R Eye
+    4300002: L Eye
+    4300004: R Eye Shine
+    4300006: L Eye Shine
+    7400000: Moth Roll
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Moth Roll
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Moth
+        weight: 1
+      - path: Moth/Moth Pelvis
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Abdomen
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth L Thigh
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth L Thigh/Moth L Calf
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth L Thigh/Moth L Calf/Moth L Foot
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth L Thigh/Moth L Calf/Moth L Foot/Moth L Toe0
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth L Thigh/Moth L Calf/Moth L Foot/Moth L Toe0/Moth
+          L Toe1
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth R Thigh
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth R Thigh/Moth R Calf
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth R Thigh/Moth R Calf/Moth R Foot
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth R Thigh/Moth R Calf/Moth R Foot/Moth R Toe0
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth R Thigh/Moth R Calf/Moth R Foot/Moth R Toe0/Moth
+          R Toe1
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth L Small Arm
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth L Small Arm/Moth L Small
+          Arm02
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth L Small Arm/Moth L Small
+          Arm02/Moth L Small Arm03
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth R Small Arm
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth R Small Arm/Moth R Small
+          Arm02
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth R Small Arm/Moth R Small
+          Arm02/Moth R Small Arm03
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth L Clavicle
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth L Clavicle/Moth
+          L UpperArm
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth L Clavicle/Moth
+          L UpperArm/Moth L Forearm
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth L Clavicle/Moth
+          L UpperArm/Moth L Forearm/Moth L Hand
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth L Wing Bottom
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth L Wing Bottom/Moth
+          L Wing Bottom02
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth L Wing Bottom/Moth
+          L Wing Bottom02/Moth L Wing Bottom03
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth L Wing Top
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth L Wing Top/Moth
+          L Wing Top02
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/L
+          Eye
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/L
+          Eye Shine
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+          L Antenna
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+          L Antenna/Moth L Antenna02
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+          L Antenna/Moth L Antenna02/Moth L Antenna03
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+          L Eyebrow
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+          L Lower Eyelid
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+          L Upper Eyelid
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+          R Antenna
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+          R Antenna/Moth R Antenna02
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+          R Antenna/Moth R Antenna02/Moth R Antenna03
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+          R Eyebrow
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+          R Lower Eyelid
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+          R Upper Eyelid
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/R
+          Eye
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/R
+          Eye Shine
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth R Clavicle
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth R Clavicle/Moth
+          R UpperArm
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth R Clavicle/Moth
+          R UpperArm/Moth R Forearm
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth R Clavicle/Moth
+          R UpperArm/Moth R Forearm/Moth R Hand
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth R Wing Bottom
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth R Wing Bottom/Moth
+          R Wing Bottom02
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth R Wing Bottom/Moth
+          R Wing Bottom02/Moth R Wing Bottom03
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth R Wing Top
+        weight: 1
+      - path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth R Wing Top/Moth
+          R Wing Top02
+        weight: 1
+      - path: Moth Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 6bd17f12b86bae9429e00eabdf60ea87, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Moth Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Moth Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Moth(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.0000004693033, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Moth
+      parentName: Moth(Clone)
+      position: {x: 0.0000000051977604, y: 0.87170255, z: 0.1189109}
+      rotation: {x: -0.50000036, y: 0.49999967, z: 0.49999967, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Moth Pelvis
+      parentName: Moth
+      position: {x: 2.3293408e-21, y: 0, z: 0.09634781}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1.0000004, y: 1, z: 1.0000004}
+    - name: Moth Abdomen
+      parentName: Moth Pelvis
+      position: {x: -0.037732847, y: -0.046398792, z: 0.000000182695}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000008}
+    - name: Moth L Thigh
+      parentName: Moth Pelvis
+      position: {x: 0.00000015258789, y: 0.00000017166137, z: 0.09656246}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000011, y: 1.000001, z: 1.0000014}
+    - name: Moth L Calf
+      parentName: Moth L Thigh
+      position: {x: -0.4195528, y: -0.000000009536743, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999994}
+    - name: Moth L Foot
+      parentName: Moth L Calf
+      position: {x: -0.23183028, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999993, y: 0.9999999, z: 1.0000001}
+    - name: Moth L Toe0
+      parentName: Moth L Foot
+      position: {x: -0.2884702, y: 0.0000000047683715, z: 0}
+      rotation: {x: -0.000000080142144, y: -0.000000016258163, z: 0.12894437, w: -0.9916519}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: Moth L Toe1
+      parentName: Moth L Toe0
+      position: {x: -0.024820007, y: 0.06718269, z: 0}
+      rotation: {x: -0.00000004758791, y: 0.00000012159069, z: -0.65446484, w: 0.7560925}
+      scale: {x: 1.0000005, y: 0.99999976, z: 0.99999994}
+    - name: Moth R Thigh
+      parentName: Moth Pelvis
+      position: {x: -0.00000015258789, y: -0.000000095367426, z: -0.09656246}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000017, y: 1.0000008, z: 1.0000013}
+    - name: Moth R Calf
+      parentName: Moth R Thigh
+      position: {x: -0.41955274, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000002}
+    - name: Moth R Foot
+      parentName: Moth R Calf
+      position: {x: -0.23183033, y: -0.000000038146972, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000007, z: 0.99999994}
+    - name: Moth R Toe0
+      parentName: Moth R Foot
+      position: {x: -0.28847018, y: 0.000000014305114, z: -0.000000019073486}
+      rotation: {x: -0.00000018143994, y: 0.000000103237085, z: 0.060076177, w: -0.9981938}
+      scale: {x: 0.99999964, y: 1.0000002, z: 1.0000002}
+    - name: Moth R Toe1
+      parentName: Moth R Toe0
+      position: {x: -0.024820007, y: 0.06718269, z: -0.000000019073486}
+      rotation: {x: -0.000000048350284, y: -0.00000002666159, z: -0.7029891, w: 0.71120065}
+      scale: {x: 1.0000007, y: 1.0000001, z: 1.0000006}
+    - name: Moth Spine
+      parentName: Moth Pelvis
+      position: {x: -0.060390167, y: -0.0000929451, z: 0.000000083877964}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000007, z: 1.0000002}
+    - name: Moth Spine1
+      parentName: Moth Spine
+      position: {x: -0.11740967, y: -0.00009254456, z: -2.566412e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000005}
+    - name: Moth L Small Arm
+      parentName: Moth Spine1
+      position: {x: -0.027476195, y: -0.0034004592, z: 0.06623317}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 0.9999994, z: 0.9999995}
+    - name: Moth L Small Arm02
+      parentName: Moth L Small Arm
+      position: {x: -0.15442166, y: -0.000035476685, z: 0.000019607543}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000014, z: 1.0000011}
+    - name: Moth L Small Arm03
+      parentName: Moth L Small Arm02
+      position: {x: -0.108551554, y: -0.00005973816, z: 0.000011138915}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000004}
+    - name: Moth R Small Arm
+      parentName: Moth Spine1
+      position: {x: -0.027476195, y: -0.003400097, z: -0.066233195}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 0.99999917, z: 0.9999999}
+    - name: Moth R Small Arm02
+      parentName: Moth R Small Arm
+      position: {x: -0.15442169, y: -0.000035476685, z: -0.000019645691}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000011, y: 1.0000013, z: 1.000001}
+    - name: Moth R Small Arm03
+      parentName: Moth R Small Arm02
+      position: {x: -0.10855152, y: -0.00005973816, z: -0.0000110626215}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000004}
+    - name: Moth Spine2
+      parentName: Moth Spine1
+      position: {x: -0.11740959, y: -0.00009252548, z: -2.5662303e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 0.99999994}
+    - name: Moth L Clavicle
+      parentName: Moth Spine2
+      position: {x: -0.09519325, y: -0.0041164397, z: 0.023710426}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 0.99999976, y: 0.9999996, z: 0.99999976}
+    - name: Moth L UpperArm
+      parentName: Moth L Clavicle
+      position: {x: -0.079482384, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999994}
+    - name: Moth L Forearm
+      parentName: Moth L UpperArm
+      position: {x: -0.30076498, y: 0.000000019073486, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999995, y: 1.0000002, z: 1.0000004}
+    - name: Moth L Hand
+      parentName: Moth L Forearm
+      position: {x: -0.23980713, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1.0000002}
+    - name: Moth L Wing Bottom
+      parentName: Moth Spine2
+      position: {x: -0.08683838, y: -0.084917314, z: 0.08166745}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000002, z: 0.9999995}
+    - name: Moth L Wing Bottom02
+      parentName: Moth L Wing Bottom
+      position: {x: -0.3587803, y: -0.0002694702, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000005}
+    - name: Moth L Wing Bottom03
+      parentName: Moth L Wing Bottom02
+      position: {x: -0.35887152, y: -0.00019741058, z: -0.00007720947}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+    - name: Moth L Wing Top
+      parentName: Moth Spine2
+      position: {x: -0.1349157, y: -0.090823054, z: 0.124430574}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999995, y: 0.99999964, z: 0.9999993}
+    - name: Moth L Wing Top02
+      parentName: Moth L Wing Top
+      position: {x: -0.31446633, y: -0.00023529053, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Moth Neck
+      parentName: Moth Spine2
+      position: {x: -0.117464446, y: -0.000058822632, z: -1.6312697e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999995, y: 0.99999934, z: 0.99999964}
+    - name: Moth Head
+      parentName: Moth Neck
+      position: {x: -0.09028808, y: -0.000000038146972, z: -1.4551915e-13}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000002}
+    - name: L Eye
+      parentName: Moth Head
+      position: {x: -0.07175013, y: 0.04967436, z: 0.069732055}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000002}
+    - name: L Eye Shine
+      parentName: Moth Head
+      position: {x: -0.07178139, y: 0.04999277, z: 0.07056686}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 0.9999997, z: 0.99999976}
+    - name: Moth L Antenna
+      parentName: Moth Head
+      position: {x: -0.18014754, y: 0.0029215144, z: 0.12018361}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.99999976, z: 0.9999999}
+    - name: Moth L Antenna02
+      parentName: Moth L Antenna
+      position: {x: -0.20227459, y: -0.00015274048, z: 0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000004}
+    - name: Moth L Antenna03
+      parentName: Moth L Antenna02
+      position: {x: -0.20227462, y: -0.0001525116, z: -0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.000001}
+    - name: Moth L Eyebrow
+      parentName: Moth Head
+      position: {x: -0.10678817, y: 0.1579208, z: 0.06186099}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000006}
+    - name: Moth L Lower Eyelid
+      parentName: Moth Head
+      position: {x: -0.0745874, y: 0.051236525, z: 0.06972983}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 0.9999994, z: 1.0000004}
+    - name: Moth L Upper Eyelid
+      parentName: Moth Head
+      position: {x: -0.07453949, y: 0.051113233, z: 0.069716975}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000012, z: 1.0000006}
+    - name: Moth R Antenna
+      parentName: Moth Head
+      position: {x: -0.18014754, y: 0.0029221438, z: -0.12018357}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000001, z: 1.0000002}
+    - name: Moth R Antenna02
+      parentName: Moth R Antenna
+      position: {x: -0.2022745, y: -0.00015274048, z: -0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999991, y: 0.9999999, z: 1}
+    - name: Moth R Antenna03
+      parentName: Moth R Antenna02
+      position: {x: -0.20227462, y: -0.00015258789, z: 0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: Moth R Eyebrow
+      parentName: Moth Head
+      position: {x: -0.10678817, y: 0.15792114, z: -0.06186011}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000001}
+    - name: Moth R Lower Eyelid
+      parentName: Moth Head
+      position: {x: -0.0745874, y: 0.051236905, z: -0.069729544}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999998, z: 0.9999994}
+    - name: Moth R Upper Eyelid
+      parentName: Moth Head
+      position: {x: -0.07453949, y: 0.051113613, z: -0.069716685}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.9999999}
+    - name: R Eye
+      parentName: Moth Head
+      position: {x: -0.07396388, y: 0.049195554, z: -0.06705673}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000004}
+    - name: R Eye Shine
+      parentName: Moth Head
+      position: {x: -0.07376899, y: 0.04958582, z: -0.06821762}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: Moth R Clavicle
+      parentName: Moth Spine2
+      position: {x: -0.09519325, y: -0.004116325, z: -0.023710446}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 0.9999999, y: 0.99999946, z: 0.9999995}
+    - name: Moth R UpperArm
+      parentName: Moth R Clavicle
+      position: {x: -0.079482384, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000001}
+    - name: Moth R Forearm
+      parentName: Moth R UpperArm
+      position: {x: -0.30076507, y: 0.000000019073486, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.0000011}
+    - name: Moth R Hand
+      parentName: Moth R Forearm
+      position: {x: -0.23980713, y: 0.000000019073486, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000007, y: 1.0000001, z: 1.0000008}
+    - name: Moth R Wing Bottom
+      parentName: Moth Spine2
+      position: {x: -0.08683838, y: -0.08491684, z: -0.08166794}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 0.9999997, z: 0.9999992}
+    - name: Moth R Wing Bottom02
+      parentName: Moth R Wing Bottom
+      position: {x: -0.35878035, y: -0.0002695465, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000008, z: 1.000001}
+    - name: Moth R Wing Bottom03
+      parentName: Moth R Wing Bottom02
+      position: {x: -0.35887158, y: -0.00019729613, z: 0.00007720947}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 0.99999964}
+    - name: Moth R Wing Top
+      parentName: Moth Spine2
+      position: {x: -0.1349157, y: -0.09082237, z: -0.12443107}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 0.9999997, z: 0.9999996}
+    - name: Moth R Wing Top02
+      parentName: Moth R Wing Top
+      position: {x: -0.31446642, y: -0.00023506164, z: -0.000000028610229}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000008}
+    - name: Moth Mesh
+      parentName: Moth(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 24185db4d13fc414e88e5ee1abe3e510,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

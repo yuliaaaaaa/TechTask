@@ -1,0 +1,789 @@
+fileFormatVersion: 2
+guid: 2532735cec33ca840a8523386e1e5b5f
+timeCreated: 1533243519
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: L Eye
+    100002: L Eye Shine
+    100004: R Eye
+    100006: R Eye Shine
+    100008: Rhinoceros Beetle
+    100010: Rhinoceros Beetle Head
+    100012: Rhinoceros Beetle L Calf
+    100014: Rhinoceros Beetle L Clavicle
+    100016: Rhinoceros Beetle L Eyebrow
+    100018: Rhinoceros Beetle L Foot
+    100020: Rhinoceros Beetle L Forearm
+    100022: Rhinoceros Beetle L Hand
+    100024: Rhinoceros Beetle L Lower Eyelid
+    100026: Rhinoceros Beetle L Small Arm
+    100028: Rhinoceros Beetle L Small Arm02
+    100030: Rhinoceros Beetle L Small Arm03
+    100032: Rhinoceros Beetle L Thigh
+    100034: Rhinoceros Beetle L Toe0
+    100036: Rhinoceros Beetle L Toe1
+    100038: Rhinoceros Beetle L Upper Eyelid
+    100040: Rhinoceros Beetle L UpperArm
+    100042: Rhinoceros Beetle Neck
+    100044: Rhinoceros Beetle Nose Horn
+    100046: Rhinoceros Beetle Pelvis
+    100048: Rhinoceros Beetle R Calf
+    100050: Rhinoceros Beetle R Clavicle
+    100052: Rhinoceros Beetle R Eyebrow
+    100054: Rhinoceros Beetle R Foot
+    100056: Rhinoceros Beetle R Forearm
+    100058: Rhinoceros Beetle R Hand
+    100060: Rhinoceros Beetle R Lower Eyelid
+    100062: Rhinoceros Beetle R Small Arm
+    100064: Rhinoceros Beetle R Small Arm02
+    100066: Rhinoceros Beetle R Small Arm03
+    100068: Rhinoceros Beetle R Thigh
+    100070: Rhinoceros Beetle R Toe0
+    100072: Rhinoceros Beetle R Toe1
+    100074: Rhinoceros Beetle R Upper Eyelid
+    100076: Rhinoceros Beetle R UpperArm
+    100078: Rhinoceros Beetle Spine
+    100080: Rhinoceros Beetle Spine1
+    100082: Rhinoceros Beetle Spine2
+    100084: Rhinoceros Beetle Top Horn
+    100086: //RootNode
+    400000: L Eye
+    400002: L Eye Shine
+    400004: R Eye
+    400006: R Eye Shine
+    400008: Rhinoceros Beetle
+    400010: Rhinoceros Beetle Head
+    400012: Rhinoceros Beetle L Calf
+    400014: Rhinoceros Beetle L Clavicle
+    400016: Rhinoceros Beetle L Eyebrow
+    400018: Rhinoceros Beetle L Foot
+    400020: Rhinoceros Beetle L Forearm
+    400022: Rhinoceros Beetle L Hand
+    400024: Rhinoceros Beetle L Lower Eyelid
+    400026: Rhinoceros Beetle L Small Arm
+    400028: Rhinoceros Beetle L Small Arm02
+    400030: Rhinoceros Beetle L Small Arm03
+    400032: Rhinoceros Beetle L Thigh
+    400034: Rhinoceros Beetle L Toe0
+    400036: Rhinoceros Beetle L Toe1
+    400038: Rhinoceros Beetle L Upper Eyelid
+    400040: Rhinoceros Beetle L UpperArm
+    400042: Rhinoceros Beetle Neck
+    400044: Rhinoceros Beetle Nose Horn
+    400046: Rhinoceros Beetle Pelvis
+    400048: Rhinoceros Beetle R Calf
+    400050: Rhinoceros Beetle R Clavicle
+    400052: Rhinoceros Beetle R Eyebrow
+    400054: Rhinoceros Beetle R Foot
+    400056: Rhinoceros Beetle R Forearm
+    400058: Rhinoceros Beetle R Hand
+    400060: Rhinoceros Beetle R Lower Eyelid
+    400062: Rhinoceros Beetle R Small Arm
+    400064: Rhinoceros Beetle R Small Arm02
+    400066: Rhinoceros Beetle R Small Arm03
+    400068: Rhinoceros Beetle R Thigh
+    400070: Rhinoceros Beetle R Toe0
+    400072: Rhinoceros Beetle R Toe1
+    400074: Rhinoceros Beetle R Upper Eyelid
+    400076: Rhinoceros Beetle R UpperArm
+    400078: Rhinoceros Beetle Spine
+    400080: Rhinoceros Beetle Spine1
+    400082: Rhinoceros Beetle Spine2
+    400084: Rhinoceros Beetle Top Horn
+    400086: //RootNode
+    2100000: Eyes
+    2100002: Eye Shine
+    2300000: L Eye
+    2300002: L Eye Shine
+    2300004: R Eye
+    2300006: R Eye Shine
+    3300000: L Eye
+    3300002: L Eye Shine
+    3300004: R Eye
+    3300006: R Eye Shine
+    4300000: R Eye
+    4300002: L Eye
+    4300004: L Eye Shine
+    4300006: R Eye Shine
+    7400000: Rhinoceros Beetle Roll
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Rhinoceros Beetle Roll
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rhinoceros Beetle
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle L Thigh
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle L Thigh/Rhinoceros
+          Beetle L Calf
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle L Thigh/Rhinoceros
+          Beetle L Calf/Rhinoceros Beetle L Foot
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle L Thigh/Rhinoceros
+          Beetle L Calf/Rhinoceros Beetle L Foot/Rhinoceros Beetle L Toe0
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle L Thigh/Rhinoceros
+          Beetle L Calf/Rhinoceros Beetle L Foot/Rhinoceros Beetle L Toe0/Rhinoceros
+          Beetle L Toe1
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle L Thigh/Rhinoceros
+          Beetle L Calf/Rhinoceros Beetle L Foot/Rhinoceros Beetle L Toe0/Rhinoceros
+          Beetle L Toe1/Rhinoceros Beetle L Toe0Nub
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle R Thigh
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle R Thigh/Rhinoceros
+          Beetle R Calf
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle R Thigh/Rhinoceros
+          Beetle R Calf/Rhinoceros Beetle R Foot
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle R Thigh/Rhinoceros
+          Beetle R Calf/Rhinoceros Beetle R Foot/Rhinoceros Beetle R Toe0
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle R Thigh/Rhinoceros
+          Beetle R Calf/Rhinoceros Beetle R Foot/Rhinoceros Beetle R Toe0/Rhinoceros
+          Beetle R Toe1
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle R Thigh/Rhinoceros
+          Beetle R Calf/Rhinoceros Beetle R Foot/Rhinoceros Beetle R Toe0/Rhinoceros
+          Beetle R Toe1/Rhinoceros Beetle R Toe0Nub
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle L Small Arm
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle L Small Arm/Rhinoceros Beetle L Small Arm02
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle L Small Arm/Rhinoceros Beetle L Small Arm02/Rhinoceros
+          Beetle L Small Arm03
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle R Small Arm
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle R Small Arm/Rhinoceros Beetle R Small Arm02
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle R Small Arm/Rhinoceros Beetle R Small Arm02/Rhinoceros
+          Beetle R Small Arm03
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle L Clavicle
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle L Clavicle/Rhinoceros
+          Beetle L UpperArm
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle L Clavicle/Rhinoceros
+          Beetle L UpperArm/Rhinoceros Beetle L Forearm
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle L Clavicle/Rhinoceros
+          Beetle L UpperArm/Rhinoceros Beetle L Forearm/Rhinoceros Beetle L Hand
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros
+          Beetle Head
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros
+          Beetle Head/L Eye
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros
+          Beetle Head/L Eye Shine
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros
+          Beetle Head/R Eye
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros
+          Beetle Head/R Eye Shine
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros
+          Beetle Head/Rhinoceros Beetle HeadNub
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros
+          Beetle Head/Rhinoceros Beetle L Lower Eyelid
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros
+          Beetle Head/Rhinoceros Beetle L Upper Eyelid
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros
+          Beetle Head/Rhinoceros Beetle Nose Horn
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros
+          Beetle Head/Rhinoceros Beetle R Lower Eyelid
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros
+          Beetle Head/Rhinoceros Beetle R Upper Eyelid
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros
+          Beetle Head/Rhinoceros Beetle Top Horn
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros
+          Beetle Head/Rhinoceros Beetle Top Horn/Rhinoceros Beetle L Eyebrow
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros
+          Beetle Head/Rhinoceros Beetle Top Horn/Rhinoceros Beetle R Eyebrow
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle R Clavicle
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle R Clavicle/Rhinoceros
+          Beetle R UpperArm
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle R Clavicle/Rhinoceros
+          Beetle R UpperArm/Rhinoceros Beetle R Forearm
+        weight: 1
+      - path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+          Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle R Clavicle/Rhinoceros
+          Beetle R UpperArm/Rhinoceros Beetle R Forearm/Rhinoceros Beetle R Hand
+        weight: 1
+      - path: Rhinoceros Beetle Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: b3f04920f64325845bc0381ac17deb51, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Rhinoceros Beetle Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhinoceros Beetle Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Rhinoceros Beetle(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rhinoceros Beetle
+      parentName: Rhinoceros Beetle(Clone)
+      position: {x: -0.0000000036951506, y: 0.98418975, z: -0.0845352}
+      rotation: {x: -0.50000036, y: 0.49999964, z: 0.49999964, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Rhinoceros Beetle Pelvis
+      parentName: Rhinoceros Beetle
+      position: {x: 0, y: 0, z: 0.124821305}
+      rotation: {x: -0.5, y: 0.5, z: 0.4999993, w: 0.5000007}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Rhinoceros Beetle Spine
+      parentName: Rhinoceros Beetle Pelvis
+      position: {x: -0.026319733, y: 0.034528244, z: -0.00000010779127}
+      rotation: {x: -0.0000021365886, y: 0.00000075604015, z: -0.09484571, w: 0.995492}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Rhinoceros Beetle Spine1
+      parentName: Rhinoceros Beetle Spine
+      position: {x: -0.2139463, y: -0.00012248993, z: -3.3985997e-10}
+      rotation: {x: -4.686921e-14, y: -0.0000006862336, z: 0.24741614, w: 0.9689093}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Rhinoceros Beetle Spine2
+      parentName: Rhinoceros Beetle Spine1
+      position: {x: -0.1753643, y: -0.00026515962, z: -7.3545375e-10}
+      rotation: {x: 1.91455e-14, y: 0.00000010972633, z: -0.039560977, w: 0.99921715}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Rhinoceros Beetle Neck
+      parentName: Rhinoceros Beetle Spine2
+      position: {x: -0.33424026, y: -0.000116195675, z: -3.2210665e-10}
+      rotation: {x: -0.0000002380344, y: 0.0000006120058, z: -0.3132804, w: 0.9496607}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Rhinoceros Beetle Head
+      parentName: Rhinoceros Beetle Neck
+      position: {x: -0.2974147, y: 0.021523742, z: 0.000000018742867}
+      rotation: {x: -6.433095e-14, y: -0.0000002655616, z: 0.09574684, w: 0.99540573}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: L Eye
+      parentName: Rhinoceros Beetle Head
+      position: {x: -0.071111605, y: 0.11622009, z: 0.0716391}
+      rotation: {x: -0.6184887, y: -0.24190472, z: 0.7466663, w: 0.037989512}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: R Eye
+      parentName: Rhinoceros Beetle Head
+      position: {x: -0.0711113, y: 0.11622024, z: -0.07164002}
+      rotation: {x: 0.7430847, y: -0.037473198, z: -0.63172704, w: 0.21758206}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: Rhinoceros Beetle HeadNub
+      parentName: Rhinoceros Beetle Head
+      position: {x: -0.23353149, y: 0, z: -2.910383e-13}
+      rotation: {x: -5.684342e-14, y: 8.4703295e-22, z: -0.000000014901161, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rhinoceros Beetle Top Horn
+      parentName: Rhinoceros Beetle Head
+      position: {x: -0.10126541, y: -0.012860641, z: 0.00000008956936}
+      rotation: {x: 0.00000014095622, y: 0.0000007734911, z: -0.17372866, w: 0.98479354}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rhinoceros Beetle L Eyebrow
+      parentName: Rhinoceros Beetle Top Horn
+      position: {x: -0.10923881, y: 0.18413207, z: 0.09458044}
+      rotation: {x: -0.21718423, y: 0.18460712, z: 0.7554853, w: 0.5899095}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Rhinoceros Beetle R Eyebrow
+      parentName: Rhinoceros Beetle Top Horn
+      position: {x: -0.109238505, y: 0.18413253, z: -0.09457983}
+      rotation: {x: 0.21718365, y: -0.18461156, z: 0.7554844, w: 0.5899095}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rhinoceros Beetle Nose Horn
+      parentName: Rhinoceros Beetle Head
+      position: {x: -0.0817334, y: 0.22132263, z: 0.00000055400943}
+      rotation: {x: 0.00000023135475, y: 0.0000012159159, z: -0.27588457, w: 0.9611908}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rhinoceros Beetle L Upper Eyelid
+      parentName: Rhinoceros Beetle Head
+      position: {x: -0.07515625, y: 0.11370193, z: 0.074043535}
+      rotation: {x: 0.29329294, y: 0.19351149, z: -0.51560014, w: 0.78146595}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Rhinoceros Beetle L Lower Eyelid
+      parentName: Rhinoceros Beetle Head
+      position: {x: -0.06891083, y: 0.11888313, z: 0.07311606}
+      rotation: {x: 0.19833484, y: 0.3321523, z: -0.75566167, w: 0.5285013}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Rhinoceros Beetle R Upper Eyelid
+      parentName: Rhinoceros Beetle Head
+      position: {x: -0.07515472, y: 0.11369995, z: -0.07404087}
+      rotation: {x: -0.29855603, y: -0.18528537, z: -0.4936906, w: 0.7954893}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Rhinoceros Beetle R Lower Eyelid
+      parentName: Rhinoceros Beetle Head
+      position: {x: -0.06891083, y: 0.11888351, z: -0.0731154}
+      rotation: {x: -0.19833486, y: -0.3321481, z: -0.7556635, w: 0.5285013}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: Rhinoceros Beetle L Clavicle
+      parentName: Rhinoceros Beetle Spine2
+      position: {x: -0.28998566, y: 0.000034980774, z: 0.023646612}
+      rotation: {x: -0.7071067, y: -0.0002825193, z: 0.70710677, w: -0.00028055807}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Rhinoceros Beetle L UpperArm
+      parentName: Rhinoceros Beetle L Clavicle
+      position: {x: -0.18796809, y: -0.000000019073486, z: 0}
+      rotation: {x: 0.13814373, y: -0.017895939, z: -0.001471557, w: 0.99024945}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Rhinoceros Beetle L Forearm
+      parentName: Rhinoceros Beetle L UpperArm
+      position: {x: -0.49891067, y: 0, z: -0.000000076293944}
+      rotation: {x: -0.0061347038, y: 0.016670577, z: 0.024998212, w: 0.9995297}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rhinoceros Beetle L Hand
+      parentName: Rhinoceros Beetle L Forearm
+      position: {x: -0.4708402, y: 0.000000076293944, z: 0}
+      rotation: {x: -0.23140106, y: -0.12979284, z: -0.2921474, w: 0.91883475}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: Rhinoceros Beetle R Clavicle
+      parentName: Rhinoceros Beetle Spine2
+      position: {x: -0.28998566, y: 0.000035133362, z: -0.023646606}
+      rotation: {x: 0.7071067, y: 0.0002805687, z: 0.70710677, w: -0.00028252995}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Rhinoceros Beetle R UpperArm
+      parentName: Rhinoceros Beetle R Clavicle
+      position: {x: -0.18796812, y: 0.000000019073486, z: 0}
+      rotation: {x: -0.13814375, y: 0.017897926, z: -0.0014718173, w: 0.99024945}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Rhinoceros Beetle R Forearm
+      parentName: Rhinoceros Beetle R UpperArm
+      position: {x: -0.49891052, y: 0, z: 0}
+      rotation: {x: 0.0061349706, y: -0.016670832, z: 0.02499803, w: 0.9995297}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: Rhinoceros Beetle R Hand
+      parentName: Rhinoceros Beetle R Forearm
+      position: {x: -0.47084007, y: 0, z: 0}
+      rotation: {x: 0.23140107, y: 0.12979287, z: -0.29214737, w: 0.91883475}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: Rhinoceros Beetle L Small Arm
+      parentName: Rhinoceros Beetle Spine1
+      position: {x: -0.1415847, y: 0.029416008, z: 0.11711621}
+      rotation: {x: 0.47083798, y: 0.82624906, z: -0.05567407, w: 0.30417842}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: Rhinoceros Beetle L Small Arm02
+      parentName: Rhinoceros Beetle L Small Arm
+      position: {x: -0.35531622, y: -0.00020126342, z: -0.000006484985}
+      rotation: {x: 0.052018587, y: 0.12349658, z: -0.29294318, w: 0.94669265}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Rhinoceros Beetle L Small Arm03
+      parentName: Rhinoceros Beetle L Small Arm02
+      position: {x: -0.30693358, y: -0.00010688781, z: 0.00000030517577}
+      rotation: {x: -0.005103576, y: 0.014236493, z: 0.25466767, w: 0.96691036}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: Rhinoceros Beetle R Small Arm
+      parentName: Rhinoceros Beetle Spine1
+      position: {x: -0.1415847, y: 0.029416656, z: -0.11711602}
+      rotation: {x: 0.470838, y: 0.82624876, z: 0.055678684, w: -0.30417848}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: Rhinoceros Beetle R Small Arm02
+      parentName: Rhinoceros Beetle R Small Arm
+      position: {x: -0.35531622, y: -0.00020118713, z: 0.000006561279}
+      rotation: {x: -0.052018583, y: -0.12349502, z: -0.29294387, w: 0.94669265}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Rhinoceros Beetle R Small Arm03
+      parentName: Rhinoceros Beetle R Small Arm02
+      position: {x: -0.30693367, y: -0.00010688781, z: -0.0000003814697}
+      rotation: {x: 0.0051035727, y: -0.014237885, z: 0.2546676, w: 0.96691036}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Rhinoceros Beetle L Thigh
+      parentName: Rhinoceros Beetle Pelvis
+      position: {x: 0.00000015258789, y: 0.00000018119812, z: 0.09678292}
+      rotation: {x: -0.10878573, y: 0.987566, z: 0.08660578, w: 0.07333828}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Rhinoceros Beetle L Calf
+      parentName: Rhinoceros Beetle L Thigh
+      position: {x: -0.40631527, y: -0.000000038146972, z: 0}
+      rotation: {x: -0.0110501805, y: 0.014807881, z: 0.32953045, w: 0.9439641}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Rhinoceros Beetle L Foot
+      parentName: Rhinoceros Beetle L Calf
+      position: {x: -0.44633543, y: 0, z: 0.000000038146972}
+      rotation: {x: 0.07515968, y: -0.053385537, z: -0.5059946, w: 0.85759574}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Rhinoceros Beetle L Toe0
+      parentName: Rhinoceros Beetle L Foot
+      position: {x: -0.35152966, y: -0.0000000023841857, z: -0.000000076293944}
+      rotation: {x: -0.03869601, y: 0.10217757, z: 0.2972723, w: 0.9485207}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Rhinoceros Beetle L Toe1
+      parentName: Rhinoceros Beetle L Toe0
+      position: {x: -0.034794927, y: 0.16426529, z: -0.000000038146972}
+      rotation: {x: -0.000000014217352, y: 0.000000013950742, z: -0.648635, w: 0.7610996}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Rhinoceros Beetle L Toe0Nub
+      parentName: Rhinoceros Beetle L Toe1
+      position: {x: -0.12211921, y: -0.0000000023841857, z: 0}
+      rotation: {x: -0.0000000017718812, y: 1.4135358e-10, z: 1, w: -0.000000007450581}
+      scale: {x: -1, y: -1, z: -1}
+    - name: Rhinoceros Beetle R Thigh
+      parentName: Rhinoceros Beetle Pelvis
+      position: {x: -0.00000015258789, y: -0.000000085830685, z: -0.09678294}
+      rotation: {x: -0.1087853, y: 0.98756593, z: -0.086606726, w: -0.07333876}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Rhinoceros Beetle R Calf
+      parentName: Rhinoceros Beetle R Thigh
+      position: {x: -0.40631527, y: -0.000000038146972, z: 0}
+      rotation: {x: 0.011050462, y: -0.014808226, z: 0.3295301, w: 0.94396424}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Rhinoceros Beetle R Foot
+      parentName: Rhinoceros Beetle R Calf
+      position: {x: -0.44633543, y: 0, z: 0}
+      rotation: {x: -0.07516143, y: 0.05338684, z: -0.5059949, w: 0.8575954}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Rhinoceros Beetle R Toe0
+      parentName: Rhinoceros Beetle R Foot
+      position: {x: -0.3515296, y: -0.0000000023841857, z: 0}
+      rotation: {x: 0.038696032, y: -0.102177665, z: 0.29727232, w: 0.9485207}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Rhinoceros Beetle R Toe1
+      parentName: Rhinoceros Beetle R Toe0
+      position: {x: -0.034794927, y: 0.1642653, z: 0}
+      rotation: {x: 0.000000010802264, y: -0.000000020829509, z: -0.648635, w: 0.7610996}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rhinoceros Beetle R Toe0Nub
+      parentName: Rhinoceros Beetle R Toe1
+      position: {x: -0.12211917, y: 0, z: 0}
+      rotation: {x: 1.649117e-10, y: -0.000000005383385, z: 0.000000014901159, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Rhinoceros Beetle Mesh
+      parentName: Rhinoceros Beetle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 2c4466f33c6d1124a843ff97b6d182a8,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

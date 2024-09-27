@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Ladybug All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Ladybug
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug L Thigh
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug L Thigh/Ladybug L Calf
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug L Thigh/Ladybug L Calf/Ladybug L Foot
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug L Thigh/Ladybug L Calf/Ladybug L Foot/Ladybug
+      L Toe0
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug L Thigh/Ladybug L Calf/Ladybug L Foot/Ladybug
+      L Toe0/Ladybug L Toe1
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug R Thigh
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug R Thigh/Ladybug R Calf
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug R Thigh/Ladybug R Calf/Ladybug R Foot
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug R Thigh/Ladybug R Calf/Ladybug R Foot/Ladybug
+      R Toe0
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug R Thigh/Ladybug R Calf/Ladybug R Foot/Ladybug
+      R Toe0/Ladybug R Toe1
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Abdomen
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug L Little Arm
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug L Little Arm/Ladybug
+      L Little Arm02
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug L Little Arm/Ladybug
+      L Little Arm02/Ladybug L Little Arm03
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug R Little Arm
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug R Little Arm/Ladybug
+      R Little Arm02
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug R Little Arm/Ladybug
+      R Little Arm02/Ladybug R Little Arm03
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      L Clavicle
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      L Clavicle/Ladybug L UpperArm
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      L Clavicle/Ladybug L UpperArm/Ladybug L Forearm
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      L Clavicle/Ladybug L UpperArm/Ladybug L Forearm/Ladybug L Hand
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      L Wing
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      L Wing/Ladybug L Wing Tip
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      L Wing Armor
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      Neck
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      Neck/Ladybug Head
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      Neck/Ladybug Head/L Eye
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      Neck/Ladybug Head/L Eye Shine
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      Neck/Ladybug Head/Ladybug L Antenna
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      Neck/Ladybug Head/Ladybug L Antenna/Ladybug L Antenna02
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      Neck/Ladybug Head/Ladybug L Antenna/Ladybug L Antenna02/Ladybug L Antenna03
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      Neck/Ladybug Head/Ladybug L Eyebrow
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      Neck/Ladybug Head/Ladybug L Lower Eyelid
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      Neck/Ladybug Head/Ladybug L Upper Eyelid
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      Neck/Ladybug Head/Ladybug R Antenna
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      Neck/Ladybug Head/Ladybug R Antenna/Ladybug R Antenna02
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      Neck/Ladybug Head/Ladybug R Antenna/Ladybug R Antenna02/Ladybug R Antenna03
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      Neck/Ladybug Head/Ladybug R Eyebrow
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      Neck/Ladybug Head/Ladybug R Lower Eyelid
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      Neck/Ladybug Head/Ladybug R Upper Eyelid
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      Neck/Ladybug Head/R Eye
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      Neck/Ladybug Head/R Eye Shine
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      R Clavicle
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      R Clavicle/Ladybug R UpperArm
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      R Clavicle/Ladybug R UpperArm/Ladybug R Forearm
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      R Clavicle/Ladybug R UpperArm/Ladybug R Forearm/Ladybug R Hand
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      R Wing
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      R Wing/Ladybug R Wing Tip
+    m_Weight: 1
+  - m_Path: Ladybug/Ladybug Pelvis/Ladybug Spine/Ladybug Spine1/Ladybug Spine2/Ladybug
+      R Wing Armor
+    m_Weight: 1
+  - m_Path: Ladybug Mesh
+    m_Weight: 1

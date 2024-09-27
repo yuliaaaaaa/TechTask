@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Rhinoceros Beetle All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle L Thigh
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle L Thigh/Rhinoceros
+      Beetle L Calf
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle L Thigh/Rhinoceros
+      Beetle L Calf/Rhinoceros Beetle L Foot
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle L Thigh/Rhinoceros
+      Beetle L Calf/Rhinoceros Beetle L Foot/Rhinoceros Beetle L Toe0
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle L Thigh/Rhinoceros
+      Beetle L Calf/Rhinoceros Beetle L Foot/Rhinoceros Beetle L Toe0/Rhinoceros Beetle
+      L Toe1
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle L Thigh/Rhinoceros
+      Beetle L Calf/Rhinoceros Beetle L Foot/Rhinoceros Beetle L Toe0/Rhinoceros Beetle
+      L Toe1/Rhinoceros Beetle L Toe0Nub
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle R Thigh
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle R Thigh/Rhinoceros
+      Beetle R Calf
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle R Thigh/Rhinoceros
+      Beetle R Calf/Rhinoceros Beetle R Foot
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle R Thigh/Rhinoceros
+      Beetle R Calf/Rhinoceros Beetle R Foot/Rhinoceros Beetle R Toe0
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle R Thigh/Rhinoceros
+      Beetle R Calf/Rhinoceros Beetle R Foot/Rhinoceros Beetle R Toe0/Rhinoceros Beetle
+      R Toe1
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle R Thigh/Rhinoceros
+      Beetle R Calf/Rhinoceros Beetle R Foot/Rhinoceros Beetle R Toe0/Rhinoceros Beetle
+      R Toe1/Rhinoceros Beetle R Toe0Nub
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle L Small Arm
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle L Small Arm/Rhinoceros Beetle L Small Arm02
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle L Small Arm/Rhinoceros Beetle L Small Arm02/Rhinoceros
+      Beetle L Small Arm03
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle R Small Arm
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle R Small Arm/Rhinoceros Beetle R Small Arm02
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle R Small Arm/Rhinoceros Beetle R Small Arm02/Rhinoceros
+      Beetle R Small Arm03
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle L Clavicle
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle L Clavicle/Rhinoceros
+      Beetle L UpperArm
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle L Clavicle/Rhinoceros
+      Beetle L UpperArm/Rhinoceros Beetle L Forearm
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle L Clavicle/Rhinoceros
+      Beetle L UpperArm/Rhinoceros Beetle L Forearm/Rhinoceros Beetle L Hand
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros Beetle
+      Head
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros Beetle
+      Head/L Eye
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros Beetle
+      Head/L Eye Shine
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros Beetle
+      Head/R Eye
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros Beetle
+      Head/R Eye Shine
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros Beetle
+      Head/Rhinoceros Beetle HeadNub
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros Beetle
+      Head/Rhinoceros Beetle L Lower Eyelid
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros Beetle
+      Head/Rhinoceros Beetle L Upper Eyelid
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros Beetle
+      Head/Rhinoceros Beetle Nose Horn
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros Beetle
+      Head/Rhinoceros Beetle R Lower Eyelid
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros Beetle
+      Head/Rhinoceros Beetle R Upper Eyelid
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros Beetle
+      Head/Rhinoceros Beetle Top Horn
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros Beetle
+      Head/Rhinoceros Beetle Top Horn/Rhinoceros Beetle L Eyebrow
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle Neck/Rhinoceros Beetle
+      Head/Rhinoceros Beetle Top Horn/Rhinoceros Beetle R Eyebrow
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle R Clavicle
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle R Clavicle/Rhinoceros
+      Beetle R UpperArm
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle R Clavicle/Rhinoceros
+      Beetle R UpperArm/Rhinoceros Beetle R Forearm
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle/Rhinoceros Beetle Pelvis/Rhinoceros Beetle Spine/Rhinoceros
+      Beetle Spine1/Rhinoceros Beetle Spine2/Rhinoceros Beetle R Clavicle/Rhinoceros
+      Beetle R UpperArm/Rhinoceros Beetle R Forearm/Rhinoceros Beetle R Hand
+    m_Weight: 1
+  - m_Path: Rhinoceros Beetle Mesh
+    m_Weight: 1

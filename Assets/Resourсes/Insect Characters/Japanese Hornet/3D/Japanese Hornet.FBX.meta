@@ -1,0 +1,711 @@
+fileFormatVersion: 2
+guid: b9dd9d36061ac764f8bd82643347b3a4
+timeCreated: 1537196395
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Japanese Hornet Mesh
+    100004: L Eye
+    100006: L Eye Shine
+    100008: R Eye
+    100010: R Eye Shine
+    100012: Japanese Hornet
+    100014: Japanese Hornet Head
+    100016: Japanese Hornet L Antenna
+    100018: Japanese Hornet L Antenna02
+    100020: Japanese Hornet L Antenna03
+    100022: Japanese Hornet L Big Wing
+    100024: Japanese Hornet L Big Wing02
+    100026: Japanese Hornet L Calf
+    100028: Japanese Hornet L Clavicle
+    100030: Japanese Hornet L Finger0
+    100032: Japanese Hornet L Foot
+    100034: Japanese Hornet L Forearm
+    100036: Japanese Hornet L Hand
+    100038: Japanese Hornet L Lower Eyelid
+    100040: Japanese Hornet L Small Arm
+    100042: Japanese Hornet L Small Arm02
+    100044: Japanese Hornet L Small Arm03
+    100046: Japanese Hornet L Small Wing
+    100048: Japanese Hornet L Small Wing02
+    100050: Japanese Hornet L Thigh
+    100052: Japanese Hornet L Toe0
+    100054: Japanese Hornet L Toe1
+    100056: Japanese Hornet L Upper Eyelid
+    100058: Japanese Hornet L UpperArm
+    100060: Japanese Hornet Neck
+    100062: Japanese Hornet Pelvis
+    100064: Japanese Hornet R Antenna
+    100066: Japanese Hornet R Antenna02
+    100068: Japanese Hornet R Antenna03
+    100070: Japanese Hornet R Big Wing
+    100072: Japanese Hornet R Big Wing02
+    100074: Japanese Hornet R Calf
+    100076: Japanese Hornet R Clavicle
+    100078: Japanese Hornet R Finger0
+    100080: Japanese Hornet R Foot
+    100082: Japanese Hornet R Forearm
+    100084: Japanese Hornet R Hand
+    100086: Japanese Hornet R Lower Eyelid
+    100088: Japanese Hornet R Small Arm
+    100090: Japanese Hornet R Small Arm02
+    100092: Japanese Hornet R Small Arm03
+    100094: Japanese Hornet R Small Wing
+    100096: Japanese Hornet R Small Wing02
+    100098: Japanese Hornet R Thigh
+    100100: Japanese Hornet R Toe0
+    100102: Japanese Hornet R Toe1
+    100104: Japanese Hornet R Upper Eyelid
+    100106: Japanese Hornet R UpperArm
+    100108: Japanese Hornet Spine
+    100110: Japanese Hornet Spine1
+    100112: Japanese Hornet Spine2
+    100114: Japanese Hornet Tail
+    100116: Japanese Hornet Tail1
+    400000: //RootNode
+    400002: Japanese Hornet Mesh
+    400004: L Eye
+    400006: L Eye Shine
+    400008: R Eye
+    400010: R Eye Shine
+    400012: Japanese Hornet
+    400014: Japanese Hornet Head
+    400016: Japanese Hornet L Antenna
+    400018: Japanese Hornet L Antenna02
+    400020: Japanese Hornet L Antenna03
+    400022: Japanese Hornet L Big Wing
+    400024: Japanese Hornet L Big Wing02
+    400026: Japanese Hornet L Calf
+    400028: Japanese Hornet L Clavicle
+    400030: Japanese Hornet L Finger0
+    400032: Japanese Hornet L Foot
+    400034: Japanese Hornet L Forearm
+    400036: Japanese Hornet L Hand
+    400038: Japanese Hornet L Lower Eyelid
+    400040: Japanese Hornet L Small Arm
+    400042: Japanese Hornet L Small Arm02
+    400044: Japanese Hornet L Small Arm03
+    400046: Japanese Hornet L Small Wing
+    400048: Japanese Hornet L Small Wing02
+    400050: Japanese Hornet L Thigh
+    400052: Japanese Hornet L Toe0
+    400054: Japanese Hornet L Toe1
+    400056: Japanese Hornet L Upper Eyelid
+    400058: Japanese Hornet L UpperArm
+    400060: Japanese Hornet Neck
+    400062: Japanese Hornet Pelvis
+    400064: Japanese Hornet R Antenna
+    400066: Japanese Hornet R Antenna02
+    400068: Japanese Hornet R Antenna03
+    400070: Japanese Hornet R Big Wing
+    400072: Japanese Hornet R Big Wing02
+    400074: Japanese Hornet R Calf
+    400076: Japanese Hornet R Clavicle
+    400078: Japanese Hornet R Finger0
+    400080: Japanese Hornet R Foot
+    400082: Japanese Hornet R Forearm
+    400084: Japanese Hornet R Hand
+    400086: Japanese Hornet R Lower Eyelid
+    400088: Japanese Hornet R Small Arm
+    400090: Japanese Hornet R Small Arm02
+    400092: Japanese Hornet R Small Arm03
+    400094: Japanese Hornet R Small Wing
+    400096: Japanese Hornet R Small Wing02
+    400098: Japanese Hornet R Thigh
+    400100: Japanese Hornet R Toe0
+    400102: Japanese Hornet R Toe1
+    400104: Japanese Hornet R Upper Eyelid
+    400106: Japanese Hornet R UpperArm
+    400108: Japanese Hornet Spine
+    400110: Japanese Hornet Spine1
+    400112: Japanese Hornet Spine2
+    400114: Japanese Hornet Tail
+    400116: Japanese Hornet Tail1
+    2100000: Japanese Hornet
+    2300000: //RootNode
+    2300002: Japanese Hornet Mesh
+    2300004: L Eye
+    2300006: L Eye Shine
+    2300008: R Eye
+    2300010: R Eye Shine
+    3300000: //RootNode
+    3300002: Japanese Hornet Mesh
+    3300004: L Eye
+    3300006: L Eye Shine
+    3300008: R Eye
+    3300010: R Eye Shine
+    4300000: Japanese Hornet Mesh
+    4300002: L Eye Shine
+    4300004: L Eye
+    4300006: R Eye Shine
+    4300008: R Eye
+    9500000: //RootNode
+    13700000: Japanese Hornet Mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye
+    second: {fileID: 2100000, guid: 24fb4dff379b0e84db959d08ab840e1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye Shine
+    second: {fileID: 2100000, guid: ff580f3e6268a2343b420d0f2a1298e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Japanese Hornet
+    second: {fileID: 2100000, guid: 2589cdb2d1a2e6d4991c67cba83e2202, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Japanese Hornet Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Japanese Hornet Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Japanese Hornet(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.00000056117693, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Japanese Hornet
+      parentName: Japanese Hornet(Clone)
+      position: {x: 0.000000008690071, y: 0.8922611, z: 0}
+      rotation: {x: -0.50000036, y: 0.49999964, z: 0.49999964, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Japanese Hornet Pelvis
+      parentName: Japanese Hornet
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Japanese Hornet L Thigh
+      parentName: Japanese Hornet Pelvis
+      position: {x: 0.00000015258789, y: 0.0000002125724, z: 0.12515894}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Japanese Hornet L Calf
+      parentName: Japanese Hornet L Thigh
+      position: {x: -0.45004103, y: 0.000000009536743, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Japanese Hornet L Foot
+      parentName: Japanese Hornet L Calf
+      position: {x: -0.31101435, y: -0.000000038146972, z: -0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Japanese Hornet L Toe0
+      parentName: Japanese Hornet L Foot
+      position: {x: -0.23547095, y: 0, z: -0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Japanese Hornet L Toe1
+      parentName: Japanese Hornet L Toe0
+      position: {x: -0.06363681, y: 0.123795815, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Japanese Hornet R Thigh
+      parentName: Japanese Hornet Pelvis
+      position: {x: -0.00000015258789, y: -0.00000013456847, z: -0.12515894}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: Japanese Hornet R Calf
+      parentName: Japanese Hornet R Thigh
+      position: {x: -0.45004112, y: 0.000000009536743, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Japanese Hornet R Foot
+      parentName: Japanese Hornet R Calf
+      position: {x: -0.3110143, y: 0, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Japanese Hornet R Toe0
+      parentName: Japanese Hornet R Foot
+      position: {x: -0.23547094, y: 0, z: -0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: Japanese Hornet R Toe1
+      parentName: Japanese Hornet R Toe0
+      position: {x: -0.0636368, y: 0.12379579, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Japanese Hornet Spine
+      parentName: Japanese Hornet Pelvis
+      position: {x: -0.093073115, y: -0.00011166154, z: 0.00000012922857}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Japanese Hornet L Small Arm
+      parentName: Japanese Hornet Spine
+      position: {x: -0.100759044, y: -0.018002573, z: 0.08326213}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: Japanese Hornet L Small Arm02
+      parentName: Japanese Hornet L Small Arm
+      position: {x: -0.29911795, y: -0.00011720657, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Japanese Hornet L Small Arm03
+      parentName: Japanese Hornet L Small Arm02
+      position: {x: -0.22046049, y: -0.000047149657, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Japanese Hornet R Small Arm
+      parentName: Japanese Hornet Spine
+      position: {x: -0.100759044, y: -0.018002102, z: -0.08326222}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Japanese Hornet R Small Arm02
+      parentName: Japanese Hornet R Small Arm
+      position: {x: -0.29911795, y: -0.00011720657, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Japanese Hornet R Small Arm03
+      parentName: Japanese Hornet R Small Arm02
+      position: {x: -0.22046047, y: -0.000047149657, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Japanese Hornet Spine1
+      parentName: Japanese Hornet Spine
+      position: {x: -0.14025483, y: -0.0001077871, z: -2.9895772e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Japanese Hornet Spine2
+      parentName: Japanese Hornet Spine1
+      position: {x: -0.14028388, y: -0.00015605926, z: -4.328467e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Japanese Hornet L Big Wing
+      parentName: Japanese Hornet Spine2
+      position: {x: -0.22846907, y: -0.1301548, z: 0.16188577}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Japanese Hornet L Big Wing02
+      parentName: Japanese Hornet L Big Wing
+      position: {x: -0.5865041, y: -0.0004536438, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Japanese Hornet L Clavicle
+      parentName: Japanese Hornet Spine2
+      position: {x: -0.16730423, y: -0.007751617, z: 0.03956301}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Japanese Hornet L UpperArm
+      parentName: Japanese Hornet L Clavicle
+      position: {x: -0.15000227, y: -0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Japanese Hornet L Forearm
+      parentName: Japanese Hornet L UpperArm
+      position: {x: -0.3555556, y: 0.000000011920928, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 1.0000001}
+    - name: Japanese Hornet L Hand
+      parentName: Japanese Hornet L Forearm
+      position: {x: -0.32715857, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Japanese Hornet L Finger0
+      parentName: Japanese Hornet L Hand
+      position: {x: -0.09092045, y: 0.000000038146972, z: -0.000000076293944}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: Japanese Hornet L Small Wing
+      parentName: Japanese Hornet Spine2
+      position: {x: -0.21762817, y: -0.107138306, z: 0.1489935}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Japanese Hornet L Small Wing02
+      parentName: Japanese Hornet L Small Wing
+      position: {x: -0.36254832, y: -0.0002861023, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: Japanese Hornet Neck
+      parentName: Japanese Hornet Spine2
+      position: {x: -0.19603622, y: -0.000098686214, z: -2.7372152e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Japanese Hornet Head
+      parentName: Japanese Hornet Neck
+      position: {x: -0.18473297, y: 0.042223588, z: 0.00000006496295}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Japanese Hornet L Antenna
+      parentName: Japanese Hornet Head
+      position: {x: -0.060200803, y: 0.18736072, z: 0.058202438}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.9999998}
+    - name: Japanese Hornet L Antenna02
+      parentName: Japanese Hornet L Antenna
+      position: {x: -0.15708926, y: -0.000093231196, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Japanese Hornet L Antenna03
+      parentName: Japanese Hornet L Antenna02
+      position: {x: -0.14567982, y: -0.00010604858, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Japanese Hornet L Lower Eyelid
+      parentName: Japanese Hornet Head
+      position: {x: -0.029424896, y: 0.10715885, z: 0.08051639}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+    - name: Japanese Hornet L Upper Eyelid
+      parentName: Japanese Hornet Head
+      position: {x: -0.028675688, y: 0.10757965, z: 0.079837605}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Japanese Hornet R Antenna
+      parentName: Japanese Hornet Head
+      position: {x: -0.060200803, y: 0.187361, z: -0.058201287}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.9999998}
+    - name: Japanese Hornet R Antenna02
+      parentName: Japanese Hornet R Antenna
+      position: {x: -0.15708931, y: -0.000093231196, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Japanese Hornet R Antenna03
+      parentName: Japanese Hornet R Antenna02
+      position: {x: -0.14567977, y: -0.00010604858, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Japanese Hornet R Lower Eyelid
+      parentName: Japanese Hornet Head
+      position: {x: -0.029424896, y: 0.10715931, z: -0.08051581}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Japanese Hornet R Upper Eyelid
+      parentName: Japanese Hornet Head
+      position: {x: -0.028675688, y: 0.10758009, z: -0.079837}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: L Eye
+      parentName: Japanese Hornet Head
+      position: {x: -0.025875853, y: 0.09815887, z: 0.07111404}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L Eye Shine
+      parentName: Japanese Hornet Head
+      position: {x: -0.020919953, y: 0.14859499, z: 0.12170896}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R Eye
+      parentName: Japanese Hornet Head
+      position: {x: -0.025875853, y: 0.09815908, z: -0.07110986}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R Eye Shine
+      parentName: Japanese Hornet Head
+      position: {x: -0.020919953, y: 0.14859533, z: -0.12170974}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Japanese Hornet R Big Wing
+      parentName: Japanese Hornet Spine2
+      position: {x: -0.22846907, y: -0.13015394, z: -0.1618865}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Japanese Hornet R Big Wing02
+      parentName: Japanese Hornet R Big Wing
+      position: {x: -0.5865041, y: -0.00045372007, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: Japanese Hornet R Clavicle
+      parentName: Japanese Hornet Spine2
+      position: {x: -0.16730423, y: -0.0077514076, z: -0.03956305}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Japanese Hornet R UpperArm
+      parentName: Japanese Hornet R Clavicle
+      position: {x: -0.15000224, y: -0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Japanese Hornet R Forearm
+      parentName: Japanese Hornet R UpperArm
+      position: {x: -0.35555565, y: 0.0000000047683715, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Japanese Hornet R Hand
+      parentName: Japanese Hornet R Forearm
+      position: {x: -0.32715857, y: -0.000000038146972, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Japanese Hornet R Finger0
+      parentName: Japanese Hornet R Hand
+      position: {x: -0.090920486, y: 0, z: 0}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1.0000001}
+    - name: Japanese Hornet R Small Wing
+      parentName: Japanese Hornet Spine2
+      position: {x: -0.21762817, y: -0.10713745, z: -0.14899412}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Japanese Hornet R Small Wing02
+      parentName: Japanese Hornet R Small Wing
+      position: {x: -0.36254832, y: -0.00028617858, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1}
+    - name: Japanese Hornet Tail
+      parentName: Japanese Hornet Pelvis
+      position: {x: 0.002243576, y: -0.11482937, z: 0.00000023344516}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Japanese Hornet Tail1
+      parentName: Japanese Hornet Tail
+      position: {x: -0.41877973, y: -0.0003309631, z: -8.245115e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Japanese Hornet Mesh
+      parentName: Japanese Hornet(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

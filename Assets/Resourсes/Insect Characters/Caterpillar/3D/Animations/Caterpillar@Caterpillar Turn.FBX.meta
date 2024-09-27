@@ -1,0 +1,1200 @@
+fileFormatVersion: 2
+guid: 4a98567e585f6204eabd89f7d1719e00
+timeCreated: 1588763364
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Caterpillar
+    100002: Caterpillar Head
+    100004: Caterpillar L Bottom Tiny Leg
+    100006: Caterpillar L Bottom Tiny Leg02
+    100008: Caterpillar L Calf
+    100010: Caterpillar L Clavicle
+    100012: Caterpillar L Eye
+    100014: Caterpillar L Eyebrow
+    100016: Caterpillar L Finger0
+    100018: Caterpillar L Foot
+    100020: Caterpillar L Forearm
+    100022: Caterpillar L Hand
+    100024: Caterpillar L Lower Body Antenna
+    100026: Caterpillar L Lower Eyelid
+    100028: Caterpillar L Lower Head Antenna
+    100030: Caterpillar L Lower Head Antenna02
+    100032: Caterpillar L Tail Claw
+    100034: Caterpillar L Thigh
+    100036: Caterpillar L Tiny Arm
+    100038: Caterpillar L Tiny Arm02
+    100040: Caterpillar L Tiny Arm03
+    100042: Caterpillar L Toe0
+    100044: Caterpillar L Upper Body Antenna
+    100046: Caterpillar L Upper Body Antenna02
+    100048: Caterpillar L Upper Eyelid
+    100050: Caterpillar L Upper Head Antenna
+    100052: Caterpillar L Upper Head Antenna02
+    100054: Caterpillar L Upper Tiny Leg
+    100056: Caterpillar L Upper Tiny Leg02
+    100058: Caterpillar L UpperArm
+    100060: Caterpillar Neck
+    100062: Caterpillar Pelvis
+    100064: Caterpillar R Bottom Tiny Leg
+    100066: Caterpillar R Bottom Tiny Leg02
+    100068: Caterpillar R Calf
+    100070: Caterpillar R Clavicle
+    100072: Caterpillar R Eye
+    100074: Caterpillar R Eyebrow
+    100076: Caterpillar R Finger0
+    100078: Caterpillar R Foot
+    100080: Caterpillar R Forearm
+    100082: Caterpillar R Hand
+    100084: Caterpillar R Lower Body Antenna
+    100086: Caterpillar R Lower Eyelid
+    100088: Caterpillar R Lower Head Antenna
+    100090: Caterpillar R Lower Head Antenna02
+    100092: Caterpillar R Tail Claw
+    100094: Caterpillar R Thigh
+    100096: Caterpillar R Tiny Arm
+    100098: Caterpillar R Tiny Arm02
+    100100: Caterpillar R Tiny Arm03
+    100102: Caterpillar R Toe0
+    100104: Caterpillar R Upper Body Antenna
+    100106: Caterpillar R Upper Body Antenna02
+    100108: Caterpillar R Upper Eyelid
+    100110: Caterpillar R Upper Head Antenna
+    100112: Caterpillar R Upper Head Antenna02
+    100114: Caterpillar R Upper Tiny Leg
+    100116: Caterpillar R Upper Tiny Leg02
+    100118: Caterpillar R UpperArm
+    100120: Caterpillar Spine
+    100122: Caterpillar Spine1
+    100124: Caterpillar Spine2
+    100126: Caterpillar Tail
+    100128: Caterpillar Tail02
+    100130: //RootNode
+    400000: Caterpillar
+    400002: Caterpillar Head
+    400004: Caterpillar L Bottom Tiny Leg
+    400006: Caterpillar L Bottom Tiny Leg02
+    400008: Caterpillar L Calf
+    400010: Caterpillar L Clavicle
+    400012: Caterpillar L Eye
+    400014: Caterpillar L Eyebrow
+    400016: Caterpillar L Finger0
+    400018: Caterpillar L Foot
+    400020: Caterpillar L Forearm
+    400022: Caterpillar L Hand
+    400024: Caterpillar L Lower Body Antenna
+    400026: Caterpillar L Lower Eyelid
+    400028: Caterpillar L Lower Head Antenna
+    400030: Caterpillar L Lower Head Antenna02
+    400032: Caterpillar L Tail Claw
+    400034: Caterpillar L Thigh
+    400036: Caterpillar L Tiny Arm
+    400038: Caterpillar L Tiny Arm02
+    400040: Caterpillar L Tiny Arm03
+    400042: Caterpillar L Toe0
+    400044: Caterpillar L Upper Body Antenna
+    400046: Caterpillar L Upper Body Antenna02
+    400048: Caterpillar L Upper Eyelid
+    400050: Caterpillar L Upper Head Antenna
+    400052: Caterpillar L Upper Head Antenna02
+    400054: Caterpillar L Upper Tiny Leg
+    400056: Caterpillar L Upper Tiny Leg02
+    400058: Caterpillar L UpperArm
+    400060: Caterpillar Neck
+    400062: Caterpillar Pelvis
+    400064: Caterpillar R Bottom Tiny Leg
+    400066: Caterpillar R Bottom Tiny Leg02
+    400068: Caterpillar R Calf
+    400070: Caterpillar R Clavicle
+    400072: Caterpillar R Eye
+    400074: Caterpillar R Eyebrow
+    400076: Caterpillar R Finger0
+    400078: Caterpillar R Foot
+    400080: Caterpillar R Forearm
+    400082: Caterpillar R Hand
+    400084: Caterpillar R Lower Body Antenna
+    400086: Caterpillar R Lower Eyelid
+    400088: Caterpillar R Lower Head Antenna
+    400090: Caterpillar R Lower Head Antenna02
+    400092: Caterpillar R Tail Claw
+    400094: Caterpillar R Thigh
+    400096: Caterpillar R Tiny Arm
+    400098: Caterpillar R Tiny Arm02
+    400100: Caterpillar R Tiny Arm03
+    400102: Caterpillar R Toe0
+    400104: Caterpillar R Upper Body Antenna
+    400106: Caterpillar R Upper Body Antenna02
+    400108: Caterpillar R Upper Eyelid
+    400110: Caterpillar R Upper Head Antenna
+    400112: Caterpillar R Upper Head Antenna02
+    400114: Caterpillar R Upper Tiny Leg
+    400116: Caterpillar R Upper Tiny Leg02
+    400118: Caterpillar R UpperArm
+    400120: Caterpillar Spine
+    400122: Caterpillar Spine1
+    400124: Caterpillar Spine2
+    400126: Caterpillar Tail
+    400128: Caterpillar Tail02
+    400130: //RootNode
+    7400000: Caterpillar Turn Left
+    7400002: Caterpillar Turn Right
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.1
+    animationPositionError: 0.1
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Caterpillar Turn Right
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Caterpillar
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar L Thigh
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar L Thigh/Caterpillar L Calf
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar L Thigh/Caterpillar L Calf/Caterpillar
+          L Foot
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar L Thigh/Caterpillar L Calf/Caterpillar
+          L Foot/Caterpillar L Toe0
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar R Thigh
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar R Thigh/Caterpillar R Calf
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar R Thigh/Caterpillar R Calf/Caterpillar
+          R Foot
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar R Thigh/Caterpillar R Calf/Caterpillar
+          R Foot/Caterpillar R Toe0
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar L Upper
+          Tiny Leg
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar L Upper
+          Tiny Leg/Caterpillar L Upper Tiny Leg02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar R Upper
+          Tiny Leg
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar R Upper
+          Tiny Leg/Caterpillar R Upper Tiny Leg02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          L Tiny Arm
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          L Tiny Arm/Caterpillar L Tiny Arm02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          L Tiny Arm/Caterpillar L Tiny Arm02/Caterpillar L Tiny Arm03
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          R Tiny Arm
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          R Tiny Arm/Caterpillar R Tiny Arm02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          R Tiny Arm/Caterpillar R Tiny Arm02/Caterpillar R Tiny Arm03
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar L Clavicle
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar L Clavicle/Caterpillar L UpperArm
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar L Clavicle/Caterpillar L UpperArm/Caterpillar L Forearm
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar L Clavicle/Caterpillar L UpperArm/Caterpillar L Forearm/Caterpillar
+          L Hand
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar L Clavicle/Caterpillar L UpperArm/Caterpillar L Forearm/Caterpillar
+          L Hand/Caterpillar L Finger0
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar L Lower Body Antenna
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar L Upper Body Antenna
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar L Upper Body Antenna/Caterpillar L Upper Body Antenna02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar L Eye
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar L Eyebrow
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar L Lower Eyelid
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar L Lower Head Antenna
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar L Lower Head Antenna/Caterpillar
+          L Lower Head Antenna02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar L Upper Eyelid
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar L Upper Head Antenna
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar L Upper Head Antenna/Caterpillar
+          L Upper Head Antenna02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar R Eye
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar R Eyebrow
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar R Lower Eyelid
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar R Lower Head Antenna
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar R Lower Head Antenna/Caterpillar
+          R Lower Head Antenna02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar R Upper Eyelid
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar R Upper Head Antenna
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar R Upper Head Antenna/Caterpillar
+          R Upper Head Antenna02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar R Clavicle
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar R Clavicle/Caterpillar R UpperArm
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar R Clavicle/Caterpillar R UpperArm/Caterpillar R Forearm
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar R Clavicle/Caterpillar R UpperArm/Caterpillar R Forearm/Caterpillar
+          R Hand
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar R Clavicle/Caterpillar R UpperArm/Caterpillar R Forearm/Caterpillar
+          R Hand/Caterpillar R Finger0
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar R Lower Body Antenna
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar R Upper Body Antenna
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar R Upper Body Antenna/Caterpillar R Upper Body Antenna02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Tail
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Tail/Caterpillar L Bottom
+          Tiny Leg
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Tail/Caterpillar L Bottom
+          Tiny Leg/Caterpillar L Bottom Tiny Leg02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Tail/Caterpillar R Bottom
+          Tiny Leg
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Tail/Caterpillar R Bottom
+          Tiny Leg/Caterpillar R Bottom Tiny Leg02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Tail/Caterpillar Tail02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Tail/Caterpillar Tail02/Caterpillar
+          L Tail Claw
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Tail/Caterpillar Tail02/Caterpillar
+          R Tail Claw
+        weight: 1
+      - path: Caterpillar Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 350b970769d44d045a353d3c9fb963d9, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Caterpillar Turn Left
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Caterpillar
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar L Thigh
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar L Thigh/Caterpillar L Calf
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar L Thigh/Caterpillar L Calf/Caterpillar
+          L Foot
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar L Thigh/Caterpillar L Calf/Caterpillar
+          L Foot/Caterpillar L Toe0
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar R Thigh
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar R Thigh/Caterpillar R Calf
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar R Thigh/Caterpillar R Calf/Caterpillar
+          R Foot
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar R Thigh/Caterpillar R Calf/Caterpillar
+          R Foot/Caterpillar R Toe0
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar L Upper
+          Tiny Leg
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar L Upper
+          Tiny Leg/Caterpillar L Upper Tiny Leg02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar R Upper
+          Tiny Leg
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar R Upper
+          Tiny Leg/Caterpillar R Upper Tiny Leg02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          L Tiny Arm
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          L Tiny Arm/Caterpillar L Tiny Arm02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          L Tiny Arm/Caterpillar L Tiny Arm02/Caterpillar L Tiny Arm03
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          R Tiny Arm
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          R Tiny Arm/Caterpillar R Tiny Arm02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          R Tiny Arm/Caterpillar R Tiny Arm02/Caterpillar R Tiny Arm03
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar L Clavicle
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar L Clavicle/Caterpillar L UpperArm
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar L Clavicle/Caterpillar L UpperArm/Caterpillar L Forearm
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar L Clavicle/Caterpillar L UpperArm/Caterpillar L Forearm/Caterpillar
+          L Hand
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar L Clavicle/Caterpillar L UpperArm/Caterpillar L Forearm/Caterpillar
+          L Hand/Caterpillar L Finger0
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar L Lower Body Antenna
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar L Upper Body Antenna
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar L Upper Body Antenna/Caterpillar L Upper Body Antenna02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar L Eye
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar L Eyebrow
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar L Lower Eyelid
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar L Lower Head Antenna
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar L Lower Head Antenna/Caterpillar
+          L Lower Head Antenna02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar L Upper Eyelid
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar L Upper Head Antenna
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar L Upper Head Antenna/Caterpillar
+          L Upper Head Antenna02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar R Eye
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar R Eyebrow
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar R Lower Eyelid
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar R Lower Head Antenna
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar R Lower Head Antenna/Caterpillar
+          R Lower Head Antenna02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar R Upper Eyelid
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar R Upper Head Antenna
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar Neck/Caterpillar Head/Caterpillar R Upper Head Antenna/Caterpillar
+          R Upper Head Antenna02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar R Clavicle
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar R Clavicle/Caterpillar R UpperArm
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar R Clavicle/Caterpillar R UpperArm/Caterpillar R Forearm
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar R Clavicle/Caterpillar R UpperArm/Caterpillar R Forearm/Caterpillar
+          R Hand
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar R Clavicle/Caterpillar R UpperArm/Caterpillar R Forearm/Caterpillar
+          R Hand/Caterpillar R Finger0
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar R Lower Body Antenna
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar R Upper Body Antenna
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Spine/Caterpillar Spine1/Caterpillar
+          Spine2/Caterpillar R Upper Body Antenna/Caterpillar R Upper Body Antenna02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Tail
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Tail/Caterpillar L Bottom
+          Tiny Leg
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Tail/Caterpillar L Bottom
+          Tiny Leg/Caterpillar L Bottom Tiny Leg02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Tail/Caterpillar R Bottom
+          Tiny Leg
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Tail/Caterpillar R Bottom
+          Tiny Leg/Caterpillar R Bottom Tiny Leg02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Tail/Caterpillar Tail02
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Tail/Caterpillar Tail02/Caterpillar
+          L Tail Claw
+        weight: 1
+      - path: Caterpillar/Caterpillar Pelvis/Caterpillar Tail/Caterpillar Tail02/Caterpillar
+          R Tail Claw
+        weight: 1
+      - path: Caterpillar Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 350b970769d44d045a353d3c9fb963d9, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Caterpillar Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Caterpillar Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Caterpillar(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.0000004434621, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Caterpillar
+      parentName: Caterpillar(Clone)
+      position: {x: 0.000000010292335, y: 0.8105542, z: 0}
+      rotation: {x: -0.50000036, y: 0.49999964, z: 0.49999964, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Caterpillar Pelvis
+      parentName: Caterpillar
+      position: {x: -3.5904057e-27, y: 0, z: 0.2719683}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Caterpillar Spine
+      parentName: Caterpillar Pelvis
+      position: {x: -0.13497025, y: -0.0002978102, z: 0.0000001875896}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000002}
+    - name: Caterpillar Spine1
+      parentName: Caterpillar Spine
+      position: {x: -0.44797835, y: -0.0003186035, z: -8.8402885e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 0.99999934, z: 0.99999964}
+    - name: Caterpillar Spine2
+      parentName: Caterpillar Spine1
+      position: {x: -0.40335432, y: -0.00024356841, z: -6.7564543e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000002, z: 0.9999999}
+    - name: Caterpillar Neck
+      parentName: Caterpillar Spine2
+      position: {x: -0.30601776, y: -0.0002772522, z: -7.690687e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: Caterpillar Head
+      parentName: Caterpillar Neck
+      position: {x: -0.3907298, y: 0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999995, y: 0.9999994, z: 0.9999994}
+    - name: Caterpillar L Upper Eyelid
+      parentName: Caterpillar Head
+      position: {x: 0.04613907, y: 0.24893776, z: 0.12803215}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000007, z: 1.0000006}
+    - name: Caterpillar L Eyebrow
+      parentName: Caterpillar Head
+      position: {x: -0.0058758543, y: 0.21057396, z: 0.11161717}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000007, z: 1.0000002}
+    - name: Caterpillar L Lower Eyelid
+      parentName: Caterpillar Head
+      position: {x: 0.046340942, y: 0.24902183, z: 0.12813574}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1.0000006}
+    - name: Caterpillar L Lower Head Antenna
+      parentName: Caterpillar Head
+      position: {x: -0.044298705, y: 0.03897606, z: 0.27743098}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1.0000004}
+    - name: Caterpillar L Lower Head Antenna02
+      parentName: Caterpillar L Lower Head Antenna
+      position: {x: -0.21306781, y: -0.00016830444, z: -0.000005455017}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: Caterpillar L Upper Head Antenna
+      parentName: Caterpillar Head
+      position: {x: -0.1909674, y: -0.073674545, z: 0.14291915}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1.0000002}
+    - name: Caterpillar L Upper Head Antenna02
+      parentName: Caterpillar L Upper Head Antenna
+      position: {x: -0.2893447, y: -0.00022689819, z: -0.000021743774}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999993, y: 0.99999976, z: 0.99999946}
+    - name: Caterpillar L Eye
+      parentName: Caterpillar Head
+      position: {x: 0.046071775, y: 0.2489473, z: 0.12805317}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000005}
+    - name: Caterpillar R Eyebrow
+      parentName: Caterpillar Head
+      position: {x: -0.0058758543, y: 0.2105745, z: -0.11161598}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000011, z: 0.99999994}
+    - name: Caterpillar R Upper Eyelid
+      parentName: Caterpillar Head
+      position: {x: 0.04613907, y: 0.24893829, z: -0.12803076}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Caterpillar R Lower Eyelid
+      parentName: Caterpillar Head
+      position: {x: 0.046340942, y: 0.24902244, z: -0.12813435}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 1.000001, z: 1.0000002}
+    - name: Caterpillar R Lower Head Antenna
+      parentName: Caterpillar Head
+      position: {x: -0.044298705, y: 0.038977586, z: -0.27743074}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1, z: 1.0000005}
+    - name: Caterpillar R Lower Head Antenna02
+      parentName: Caterpillar R Lower Head Antenna
+      position: {x: -0.21306781, y: -0.00016830444, z: 0.00000541687}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1}
+    - name: Caterpillar R Upper Head Antenna
+      parentName: Caterpillar Head
+      position: {x: -0.1909674, y: -0.07367378, z: -0.14291957}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 0.99999994, z: 1.0000005}
+    - name: Caterpillar R Upper Head Antenna02
+      parentName: Caterpillar R Upper Head Antenna
+      position: {x: -0.28934467, y: -0.0002267456, z: 0.00002166748}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1.0000002, z: 0.9999998}
+    - name: Caterpillar R Eye
+      parentName: Caterpillar Head
+      position: {x: 0.046071775, y: 0.2489479, z: -0.12805177}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000004}
+    - name: Caterpillar L Clavicle
+      parentName: Caterpillar Spine2
+      position: {x: -0.30587646, y: -0.00000015258789, z: 0.061763562}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000004}
+    - name: Caterpillar L UpperArm
+      parentName: Caterpillar L Clavicle
+      position: {x: -0.28274456, y: 0.000000038146972, z: 0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000002}
+    - name: Caterpillar L Forearm
+      parentName: Caterpillar L UpperArm
+      position: {x: -0.34166723, y: -0.000000038146972, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000008, z: 1.0000006}
+    - name: Caterpillar L Hand
+      parentName: Caterpillar L Forearm
+      position: {x: -0.35158393, y: -0.000000076293944, z: 0.00000015258789}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 1.0000005, y: 1, z: 1.0000006}
+    - name: Caterpillar L Finger0
+      parentName: Caterpillar L Hand
+      position: {x: -0.17750831, y: 0, z: 0}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 1, y: 0.99999964, z: 0.9999999}
+    - name: Caterpillar L Upper Body Antenna
+      parentName: Caterpillar Spine2
+      position: {x: -0.5172055, y: -0.012099266, z: 0.22216131}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 0.9999998, z: 0.9999998}
+    - name: Caterpillar L Upper Body Antenna02
+      parentName: Caterpillar L Upper Body Antenna
+      position: {x: -0.28931117, y: -0.00019306183, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000004}
+    - name: Caterpillar L Lower Body Antenna
+      parentName: Caterpillar Spine2
+      position: {x: -0.23114623, y: -0.21903282, z: 0.28426424}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000006}
+    - name: Caterpillar R Clavicle
+      parentName: Caterpillar Spine2
+      position: {x: -0.30587646, y: 0.00000019073485, z: -0.061763562}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000013}
+    - name: Caterpillar R UpperArm
+      parentName: Caterpillar R Clavicle
+      position: {x: -0.28274456, y: 0.000000038146972, z: -0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000006}
+    - name: Caterpillar R Forearm
+      parentName: Caterpillar R UpperArm
+      position: {x: -0.3416671, y: 0, z: 0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000012, z: 1.0000007}
+    - name: Caterpillar R Hand
+      parentName: Caterpillar R Forearm
+      position: {x: -0.35158387, y: -0.000000076293944, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000004}
+    - name: Caterpillar R Finger0
+      parentName: Caterpillar R Hand
+      position: {x: -0.17750831, y: -0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000001}
+    - name: Caterpillar R Upper Body Antenna
+      parentName: Caterpillar Spine2
+      position: {x: -0.5172055, y: -0.012098045, z: -0.22216144}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1.0000006, z: 1.0000004}
+    - name: Caterpillar R Upper Body Antenna02
+      parentName: Caterpillar R Upper Body Antenna
+      position: {x: -0.2893111, y: -0.00019302368, z: 0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000002}
+    - name: Caterpillar R Lower Body Antenna
+      parentName: Caterpillar Spine2
+      position: {x: -0.23114623, y: -0.21903126, z: -0.28426546}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000002}
+    - name: Caterpillar L Tiny Arm
+      parentName: Caterpillar Spine1
+      position: {x: -0.23773254, y: 0.256198, z: 0.18673539}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 0.99999994}
+    - name: Caterpillar L Tiny Arm02
+      parentName: Caterpillar L Tiny Arm
+      position: {x: -0.22619422, y: -0.00011621475, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 0.9999997}
+    - name: Caterpillar L Tiny Arm03
+      parentName: Caterpillar L Tiny Arm02
+      position: {x: -0.22646946, y: 0.0000033569336, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000001}
+    - name: Caterpillar R Tiny Arm
+      parentName: Caterpillar Spine1
+      position: {x: -0.23773254, y: 0.2561991, z: -0.18673399}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000007}
+    - name: Caterpillar R Tiny Arm02
+      parentName: Caterpillar R Tiny Arm
+      position: {x: -0.2261943, y: -0.00011625289, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000008, z: 1.0000006}
+    - name: Caterpillar R Tiny Arm03
+      parentName: Caterpillar R Tiny Arm02
+      position: {x: -0.22646953, y: 0.0000032043456, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000017, y: 1.0000004, z: 1.0000012}
+    - name: Caterpillar L Upper Tiny Leg
+      parentName: Caterpillar Spine
+      position: {x: -0.2907131, y: 0.2635659, z: 0.17870112}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000011, z: 1.0000011}
+    - name: Caterpillar L Upper Tiny Leg02
+      parentName: Caterpillar L Upper Tiny Leg
+      position: {x: -0.20587425, y: -0.00008415222, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Caterpillar R Upper Tiny Leg
+      parentName: Caterpillar Spine
+      position: {x: -0.2907131, y: 0.26356712, z: -0.1786989}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000001, y: 1.000001, z: 1.0000001}
+    - name: Caterpillar R Upper Tiny Leg02
+      parentName: Caterpillar R Upper Tiny Leg
+      position: {x: -0.2058741, y: -0.000084228515, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000001, y: 1.0000001, z: 1.0000005}
+    - name: Caterpillar Tail
+      parentName: Caterpillar Pelvis
+      position: {x: -0.017874373, y: -0.24330044, z: 0.00000070340275}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.99999994}
+    - name: Caterpillar Tail02
+      parentName: Caterpillar Tail
+      position: {x: -0.6331558, y: -0.00038261412, z: -0.0000000010611256}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000002}
+    - name: Caterpillar L Tail Claw
+      parentName: Caterpillar Tail02
+      position: {x: -0.46739525, y: -0.005881042, z: 0.12986109}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999995, y: 0.9999999, z: 0.9999997}
+    - name: Caterpillar R Tail Claw
+      parentName: Caterpillar Tail02
+      position: {x: -0.4673951, y: -0.0058802413, z: -0.12986112}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.99999964}
+    - name: Caterpillar L Bottom Tiny Leg
+      parentName: Caterpillar Tail
+      position: {x: -0.32826757, y: -0.22387931, z: 0.16306154}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1, z: 1.0000002}
+    - name: Caterpillar L Bottom Tiny Leg02
+      parentName: Caterpillar L Bottom Tiny Leg
+      position: {x: -0.19564076, y: -0.00004257202, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000006}
+    - name: Caterpillar R Bottom Tiny Leg
+      parentName: Caterpillar Tail
+      position: {x: -0.32826754, y: -0.22387844, z: -0.16306272}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000004, z: 1.0000006}
+    - name: Caterpillar R Bottom Tiny Leg02
+      parentName: Caterpillar R Bottom Tiny Leg
+      position: {x: -0.19564076, y: -0.00004261017, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.0000001}
+    - name: Caterpillar L Thigh
+      parentName: Caterpillar Pelvis
+      position: {x: 0.0000003814697, y: 0.0000004000448, z: 0.26291776}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000013}
+    - name: Caterpillar L Calf
+      parentName: Caterpillar L Thigh
+      position: {x: -0.5160714, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.0000001}
+    - name: Caterpillar L Foot
+      parentName: Caterpillar L Calf
+      position: {x: -0.40014565, y: 0, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000005}
+    - name: Caterpillar L Toe0
+      parentName: Caterpillar L Foot
+      position: {x: -0.13477395, y: 0.17344788, z: -0.005797996}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000007, y: 1, z: 1.0000007}
+    - name: Caterpillar R Thigh
+      parentName: Caterpillar Pelvis
+      position: {x: -0.0000003814697, y: -0.00000032918396, z: -0.26291776}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000012, y: 1.0000002, z: 1.0000007}
+    - name: Caterpillar R Calf
+      parentName: Caterpillar R Thigh
+      position: {x: -0.51607144, y: 0, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000013, z: 1.0000007}
+    - name: Caterpillar R Foot
+      parentName: Caterpillar R Calf
+      position: {x: -0.4001456, y: -0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000011, y: 1.0000015, z: 1.0000008}
+    - name: Caterpillar R Toe0
+      parentName: Caterpillar R Foot
+      position: {x: -0.13477395, y: 0.17344788, z: 0.0057979585}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000005, y: 0.9999988, z: 1.0000005}
+    - name: Caterpillar Mesh
+      parentName: Caterpillar(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: a712bb3e88d6902459a0b501cf4caa15,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

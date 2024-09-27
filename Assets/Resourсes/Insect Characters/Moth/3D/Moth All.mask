@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Moth All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Moth
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Abdomen
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth L Thigh
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth L Thigh/Moth L Calf
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth L Thigh/Moth L Calf/Moth L Foot
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth L Thigh/Moth L Calf/Moth L Foot/Moth L Toe0
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth L Thigh/Moth L Calf/Moth L Foot/Moth L Toe0/Moth
+      L Toe1
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth R Thigh
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth R Thigh/Moth R Calf
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth R Thigh/Moth R Calf/Moth R Foot
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth R Thigh/Moth R Calf/Moth R Foot/Moth R Toe0
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth R Thigh/Moth R Calf/Moth R Foot/Moth R Toe0/Moth
+      R Toe1
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth L Small Arm
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth L Small Arm/Moth L Small
+      Arm02
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth L Small Arm/Moth L Small
+      Arm02/Moth L Small Arm03
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth R Small Arm
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth R Small Arm/Moth R Small
+      Arm02
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth R Small Arm/Moth R Small
+      Arm02/Moth R Small Arm03
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth L Clavicle
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth L Clavicle/Moth
+      L UpperArm
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth L Clavicle/Moth
+      L UpperArm/Moth L Forearm
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth L Clavicle/Moth
+      L UpperArm/Moth L Forearm/Moth L Hand
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth L Wing Bottom
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth L Wing Bottom/Moth
+      L Wing Bottom02
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth L Wing Bottom/Moth
+      L Wing Bottom02/Moth L Wing Bottom03
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth L Wing Top
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth L Wing Top/Moth
+      L Wing Top02
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/L
+      Eye
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/L
+      Eye Shine
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+      L Antenna
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+      L Antenna/Moth L Antenna02
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+      L Antenna/Moth L Antenna02/Moth L Antenna03
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+      L Eyebrow
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+      L Lower Eyelid
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+      L Upper Eyelid
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+      R Antenna
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+      R Antenna/Moth R Antenna02
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+      R Antenna/Moth R Antenna02/Moth R Antenna03
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+      R Eyebrow
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+      R Lower Eyelid
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/Moth
+      R Upper Eyelid
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/R
+      Eye
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth Neck/Moth Head/R
+      Eye Shine
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth R Clavicle
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth R Clavicle/Moth
+      R UpperArm
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth R Clavicle/Moth
+      R UpperArm/Moth R Forearm
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth R Clavicle/Moth
+      R UpperArm/Moth R Forearm/Moth R Hand
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth R Wing Bottom
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth R Wing Bottom/Moth
+      R Wing Bottom02
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth R Wing Bottom/Moth
+      R Wing Bottom02/Moth R Wing Bottom03
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth R Wing Top
+    m_Weight: 1
+  - m_Path: Moth/Moth Pelvis/Moth Spine/Moth Spine1/Moth Spine2/Moth R Wing Top/Moth
+      R Wing Top02
+    m_Weight: 1
+  - m_Path: Moth Mesh
+    m_Weight: 1
