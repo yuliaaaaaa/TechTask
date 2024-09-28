@@ -113,6 +113,7 @@
      <None Include="Assets\Resourсes\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
      <Folder Include="Assets\Resourсes\Alien_planet\Effects" />
      <Folder Include="Assets\Resourсes\Layers" />
+     <Folder Include="Assets\Resourсes\Music" />
      <None Include="Assets\Resourсes\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald-Bold - OFL.txt" />
      <Folder Include="Assets\Resourсes\Insect Characters\Moth\Textures" />
      <Folder Include="Assets\Resourсes\Insect Characters\Moth\3D" />
@@ -952,14 +953,14 @@
      <Reference Include="Unity.VisualScripting.State">
      <HintPath>D:\Gits\TechTask\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.VSCode.Editor">
-     <HintPath>D:\Gits\TechTask\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+     <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
+     <HintPath>D:\Gits\TechTask\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
      </Reference>
      <Reference Include="Cinemachine">
      <HintPath>D:\Gits\TechTask\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
-     <HintPath>D:\Gits\TechTask\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
+     <Reference Include="Unity.VSCode.Editor">
+     <HintPath>D:\Gits\TechTask\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
